@@ -54,7 +54,6 @@
             text-decoration: none;
         }
         #creditList {
-            display: none;
         }
     </style>
 
@@ -126,82 +125,6 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12" id="creditList">
-                <!--div class="credit-item">
-                    <div class="credit-item__img">
-                        <img src="image/98-16.jpg" alt="совкомбанк" class="">
-                    </div>
-                    <h3>Совком банк</h3>
-                    <p>10 %</p>
-                    <a href="">Отправить заявку</a>
-                </div>
-                <div class="credit-item">
-                    <div class="credit-item__img">
-                        <img src="image/101-38.jpg" alt="Ренессанс кредит" class="">
-                    </div>
-                    <h3>Ренессанс кредит</h3>
-                    <p>10 %</p>
-                    <a href="">Отправить заявку</a>
-                </div>
-                <div class="credit-item">
-                    <div class="credit-item__img">
-                        <img src="image/107-55.jpg" alt="Raiffeisen Bank" class="">
-                    </div>
-                    <h3>Raiffeisen Bank</h3>
-                    <p>10 %</p>
-                    <a href="">Отправить заявку</a>
-                </div>
-                <div class="credit-item">
-                    <div class="credit-item__img">
-                        <img src="image/108-54.jpg" alt="Восточный экспресс банк" class="">
-                    </div>
-                    <h3>Восточный экспресс банк</h3>
-                    <p>10 %</p>
-                    <a href="">Отправить заявку</a>
-                </div>
-                <div class="credit-item">
-                    <div class="credit-item__img">
-                        <img src="image/294-ситибанк.png" alt="Ситибанк" class="">
-                    </div>
-                    <h3>Ситибанк</h3>
-                    <p>10 %</p>
-                    <a href="">Отправить заявку</a>
-                </div>
-
-                <div class="credit-item">
-                    <div class="credit-item__img">
-                        <img src="image/bank18.png" alt="Банк хоум кредит" class="">
-                    </div>
-                    <h3>Банк хоум кредит</h3>
-                    <p>10 %</p>
-                    <a href="">Отправить заявку</a>
-                </div>
-
-                <div class="credit-item">
-                    <div class="credit-item__img">
-                        <img src="image/company-94-14.jpg" alt="тинькоффбанк" class="">
-                    </div>
-                    <h3>Тинькофф банк</h3>
-                    <p>10 %</p>
-                    <a href="">Отправить заявку</a>
-                </div>
-
-                <div class="credit-item">
-                    <div class="credit-item__img">
-                        <img src="image/company-257-ubrr.png" alt="Уральский банк" class="">
-                    </div>
-                    <h3>Уральский банк <br>реконструкции и развития</h3>
-                    <p>10 %</p>
-                    <a href="">Отправить заявку</a>
-                </div>
-
-                <div class="credit-item">
-                    <div class="credit-item__img">
-                        <img src="image/company-258-greenfinance.png" alt="АКБ ГРИН ФИНАНС" class="">
-                    </div>
-                    <h3>АКБ ГРИН ФИНАНС</h3>
-                    <p>10 %</p>
-                    <a href="">Отправить заявку</a>
-                </div-->
             </div>
         </div>
     </div>
@@ -511,15 +434,57 @@
                 }
             ];
 
-            var openList = $('#openList'),
-                creaditList = $('#creditList');
+            var openList = $('#openList');
+            var creaditList = $('#creditList');
 
-            console.log('dataBank', dataBank);
+            function viewMyCode(array, element) {
+                var output = '';
+                for (var i = 0; i < array.length; i++) {
+                    output += '<div class="credit-item">';
+                    output += '<div class="credit-item__img"><img src="'+array[i].image+'" alt="'+array[i].name+'"></div>';
+                    output += '<h3>'+array[i].name+'></h3>';
+                    output += '<p>'+array[i].discount+'></p>';
+                    output += '<p>'+array[i].discount+'></p>';
+                    output += '<a href="'+array[i].link+'" target="_blank">Отправить заявку></a>';
+                    output += '</div>';
+                }
+
+                element.html(output);
+            }
+
+            function sortable(array1, array2) {
+                if ( array1.length === 0 ) {
+                    return array2;
+                }
+
+                // получаем рандом число
+                var randomInt = Math.round( Math.random() * ( (array1.length - 1) ) );
+
+                // добавляем в новый массив
+                array2.push( array1[randomInt] );
+
+                // удаляем
+                array1.splice(randomInt, 1);
+
+                // console.log('randomInt', randomInt);
+//                console.log('array1', array1);
+//                console.log('array2', array2);
+
+                return sortable(array1, array2);
+            }
+
+            // отрисовка шаблона с банками
+            viewMyCode(dataBank, creaditList);
 
             openList.on('click', function (e) {
                 e.preventDefault();
 
-                creaditList.stop().slideToggle();
+                var newArray = [];
+
+                dataBank = sortable(dataBank, newArray);
+
+                // отрисовка шаблона с банками
+                viewMyCode(dataBank, creaditList);
             })
 
         })

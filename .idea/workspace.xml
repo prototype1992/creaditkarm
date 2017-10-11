@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bc3ead9-6b89-4a5b-8d93-483c296f670c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/101-38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/107-55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/108-54.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/294-ситибанк.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/98-16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bank18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/bank204.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/company-257-ubrr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/company-258-greenfinance (1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/company-258-greenfinance.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/company-94-14.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -31,11 +20,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="516" column="46" lean-forward="false" selection-start-line="516" selection-start-column="46" selection-end-line="516" selection-end-column="46" />
+            <state relative-caret-position="478">
+              <caret line="55" column="21" lean-forward="false" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
               <folding>
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#4804#8059#0" expanded="false" />
                 <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -43,10 +31,9 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#script#7;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#14;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#17586#17981#0" expanded="false" />
-                <element signature="e#18054#18104#0" expanded="false" />
-                <element signature="e#18146#18196#0" expanded="false" />
-                <element signature="e#18254#20570#0" expanded="false" />
+                <element signature="e#14287#14682#0" expanded="false" />
+                <element signature="e#14755#14805#0" expanded="false" />
+                <element signature="e#14847#14897#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -185,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507728436496</updated>
-      <workItem from="1507728438683" duration="5380000" />
+      <workItem from="1507728438683" duration="10153000" />
     </task>
     <task id="LOCAL-00001" summary="add project">
       <created>1507731181502</created>
@@ -194,11 +181,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507731181502</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="сделал базовую верстку">
+      <created>1507734460734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1507734460734</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5380000" />
+    <option name="totallyTimeSpent" value="10153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -230,7 +224,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add project" />
+    <MESSAGE value="сделал базовую верстку" />
+    <option name="LAST_COMMIT_MESSAGE" value="сделал базовую верстку" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -312,11 +307,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="516" column="46" lean-forward="false" selection-start-line="516" selection-start-column="46" selection-end-line="516" selection-end-column="46" />
+        <state relative-caret-position="478">
+          <caret line="55" column="21" lean-forward="false" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
           <folding>
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#4804#8059#0" expanded="false" />
             <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -324,10 +318,9 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#script#7;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#14;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#17586#17981#0" expanded="false" />
-            <element signature="e#18054#18104#0" expanded="false" />
-            <element signature="e#18146#18196#0" expanded="false" />
-            <element signature="e#18254#20570#0" expanded="false" />
+            <element signature="e#14287#14682#0" expanded="false" />
+            <element signature="e#14755#14805#0" expanded="false" />
+            <element signature="e#14847#14897#0" expanded="false" />
           </folding>
         </state>
       </provider>
