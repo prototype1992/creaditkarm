@@ -15,6 +15,49 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;subset=cyrillic" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Срочный кредит онлайн без справок, займы на карту без отказа</title>
+
+    <style>
+        .credit-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 50px 0;
+        }
+        .credit-item__img {
+            width: 112px;
+        }
+        .credit-item h3 {
+            width: 400px;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        .credit-item p {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        .credit-item a {
+            display: inline-block;
+            border-radius: 30px;
+            background: #0e86d6;
+            color: #fff;
+            font-size: 16px;
+            text-align: center;
+            border: 0;
+            transition: all .2s;
+            cursor: pointer;
+            font-weight: 300;
+            padding: 10px 20px;
+        }
+        .credit-item a:hover {
+            background: #70cd6a;
+            color: #fff;
+            text-decoration: none;
+        }
+        #creditList {
+            display: none;
+        }
+    </style>
+
     </head>
 <body class="main_page">
 
@@ -71,7 +114,7 @@
 						</div>
 					</div>
 					<div class="dib col-lg-3 col-md-3 col-sm-3">
-						<button type="submit" class="btn_2 full_width">Рассчитать</button>
+						<button type="submit" class="btn_2 full_width" id="openList">Рассчитать</button>
 					</div>
 				</div>
 			</form>
@@ -82,10 +125,83 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
-                <div class="credit-item">
-                    <img src="" alt="" class="credit-item__img">
+            <div class="col-md-12" id="creditList">
+                <!--div class="credit-item">
+                    <div class="credit-item__img">
+                        <img src="image/98-16.jpg" alt="совкомбанк" class="">
+                    </div>
+                    <h3>Совком банк</h3>
+                    <p>10 %</p>
+                    <a href="">Отправить заявку</a>
                 </div>
+                <div class="credit-item">
+                    <div class="credit-item__img">
+                        <img src="image/101-38.jpg" alt="Ренессанс кредит" class="">
+                    </div>
+                    <h3>Ренессанс кредит</h3>
+                    <p>10 %</p>
+                    <a href="">Отправить заявку</a>
+                </div>
+                <div class="credit-item">
+                    <div class="credit-item__img">
+                        <img src="image/107-55.jpg" alt="Raiffeisen Bank" class="">
+                    </div>
+                    <h3>Raiffeisen Bank</h3>
+                    <p>10 %</p>
+                    <a href="">Отправить заявку</a>
+                </div>
+                <div class="credit-item">
+                    <div class="credit-item__img">
+                        <img src="image/108-54.jpg" alt="Восточный экспресс банк" class="">
+                    </div>
+                    <h3>Восточный экспресс банк</h3>
+                    <p>10 %</p>
+                    <a href="">Отправить заявку</a>
+                </div>
+                <div class="credit-item">
+                    <div class="credit-item__img">
+                        <img src="image/294-ситибанк.png" alt="Ситибанк" class="">
+                    </div>
+                    <h3>Ситибанк</h3>
+                    <p>10 %</p>
+                    <a href="">Отправить заявку</a>
+                </div>
+
+                <div class="credit-item">
+                    <div class="credit-item__img">
+                        <img src="image/bank18.png" alt="Банк хоум кредит" class="">
+                    </div>
+                    <h3>Банк хоум кредит</h3>
+                    <p>10 %</p>
+                    <a href="">Отправить заявку</a>
+                </div>
+
+                <div class="credit-item">
+                    <div class="credit-item__img">
+                        <img src="image/company-94-14.jpg" alt="тинькоффбанк" class="">
+                    </div>
+                    <h3>Тинькофф банк</h3>
+                    <p>10 %</p>
+                    <a href="">Отправить заявку</a>
+                </div>
+
+                <div class="credit-item">
+                    <div class="credit-item__img">
+                        <img src="image/company-257-ubrr.png" alt="Уральский банк" class="">
+                    </div>
+                    <h3>Уральский банк <br>реконструкции и развития</h3>
+                    <p>10 %</p>
+                    <a href="">Отправить заявку</a>
+                </div>
+
+                <div class="credit-item">
+                    <div class="credit-item__img">
+                        <img src="image/company-258-greenfinance.png" alt="АКБ ГРИН ФИНАНС" class="">
+                    </div>
+                    <h3>АКБ ГРИН ФИНАНС</h3>
+                    <p>10 %</p>
+                    <a href="">Отправить заявку</a>
+                </div-->
             </div>
         </div>
     </div>
@@ -326,6 +442,84 @@
 
             $(window).resize(function(){
                 stickCreditPanel()
+            });
+
+            // shamil code
+            var dataBank = [
+                {
+                    "id": 0,
+                    "image": "image/98-16.jpg",
+                    "name": "Совком банк",
+                    "discount": "10%",
+                    "link": "http://google.com"
+                },
+                {
+                    "id": 1,
+                    "image": "image/101-38.jpg",
+                    "name": "Ренессанс кредит",
+                    "discount": "10%",
+                    "link": "http://google.com"
+                },
+                {
+                    "id": 2,
+                    "image": "image/107-55.jpg",
+                    "name": "Raiffeisen Bank",
+                    "discount": "10%",
+                    "link": "http://google.com"
+                },
+                {
+                    "id": 3,
+                    "image": "image/108-54.jpg",
+                    "name": "Восточный экспресс банк",
+                    "discount": "10%",
+                    "link": "http://google.com"
+                },
+                {
+                    "id": 4,
+                    "image": "image/294-ситибанк.png",
+                    "name": "Ситибанк",
+                    "discount": "10%",
+                    "link": "http://google.com"
+                },
+                {
+                    "id": 5,
+                    "image": "image/bank18.png",
+                    "name": "Банк хоум кредит",
+                    "discount": "10%",
+                    "link": "http://google.com"
+                },
+                {
+                    "id": 6,
+                    "image": "image/company-94-14.jpg",
+                    "name": "Тинькофф банк",
+                    "discount": "10%",
+                    "link": "http://google.com"
+                },
+                {
+                    "id": 7,
+                    "image": "image/company-257-ubrr.png",
+                    "name": "Уральский банк реконструкции и развития",
+                    "discount": "10%",
+                    "link": "http://google.com"
+                },
+                {
+                    "id": 8,
+                    "image": "image/company-258-greenfinance.png",
+                    "name": "АКБ ГРИН ФИНАНС",
+                    "discount": "10%",
+                    "link": "http://google.com"
+                }
+            ];
+
+            var openList = $('#openList'),
+                creaditList = $('#creditList');
+
+            console.log('dataBank', dataBank);
+
+            openList.on('click', function (e) {
+                e.preventDefault();
+
+                creaditList.stop().slideToggle();
             })
 
         })
