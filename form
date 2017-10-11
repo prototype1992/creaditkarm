@@ -1,0 +1,2724 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="Оформите онлайн заявку во все банки, сравните предложения по займам, потребительским кредитам и кредитным картам от всех банков России.">
+    <meta name="mailru-verification" content="519ed04d7d033af6" />
+    <meta name="yandex-verification" content="a2e441e4a4c734ca" />
+    <meta name="google-site-verification" content="yk0T1LGkl4Sa4V6kugNTMmY5lPy-2tt8nAAO0Yb9zWw" />
+
+
+    
+    <link rel="shortcut icon" href="/creditkarm/img/favicon.jpg">
+    <link href="/creditkarm/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.5.0/css/bootstrap-slider.min.css">
+    <link rel="stylesheet" href="/creditkarm/css/main.css" media="screen, projection" />
+    <link rel="stylesheet" href="/creditkarm/css/modal.css" media="screen, projection" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;subset=cyrillic" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Возьмите кредит на карту или наличными без проверок и справок</title>
+    </head>
+<body class="form_page">
+
+<div class="wrapper">
+
+    
+    <header class="header">
+	<div class="header-inset">
+		<a href="#" id="mobMenu" class="burger">
+		 	<div class="burger-ico"></div>
+		 </a>
+		<div class="table_mod">
+			<div class="col-sm-2 table_mod_cell">
+				<a href="https://creditkarm.ru" class="logo"><img src="/creditkarm/img/ck_logo.svg" alt="" yandex-goal="header-logo-click"></a>
+			</div>
+			<div class="col-sm-8 table_mod_cell">
+				<nav id="navigation" class="nav">
+					<div class="nav_item"><a href="https://creditkarm.ru/form">Подбор кредита</a></div>
+					<div class="nav_item">
+						<a href="#" class="">
+							Кредиты
+							<i class="glyphicon glyphicon-menu-down"></i>
+						</a>
+						<div class="sub_menu">
+							<a href="https://creditkarm.ru/zaimy">Займы</a>
+							<a href="https://creditkarm.ru/cards">Кредитные карты</a>
+							<a href="https://creditkarm.ru/credit">Потребительские кредиты</a>
+						</div>
+					</div>
+					<div class="nav_item">
+						<a href="#">
+							Страхование
+							<i class="glyphicon glyphicon-menu-down"></i>
+						</a>
+						<div class="sub_menu">
+							<a href="https://creditkarm.ru/casco">КАСКО</a>
+							<a href="https://creditkarm.ru/osago">ОСАГО</a>
+							<a href="https://creditkarm.ru/travel">Страхование путешествий</a>
+						</div>
+					</div>
+					<div class="nav_item pull-right social_wrap">
+						<ul class="list-unstyled header_social_links">
+							<li>
+								<a target="_blank" href="https://plus.google.com/b/110666695724425173622/110666695724425173622">
+									<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+										<path fill="#818181" d="M12,0 C5.38314894,0 0,5.38314894 0,12 C0,18.6168511 5.38314894,24 12,24 C18.6168511,24 24,18.6168511 24,12 C24,5.38314894 18.6168511,0 12,0 Z M12,22.4680851 C6.22784681,22.4680851 1.53191489,17.7721532 1.53191489,12 C1.53191489,6.22784681 6.22784681,1.53191489 12,1.53191489 C17.7721532,1.53191489 22.4680851,6.22784681 22.4680851,12 C22.4680851,17.7721532 17.7721532,22.4680851 12,22.4680851 Z M9.70866383,11.2340426 L14.6134468,11.2340426 L14.6134468,12 C14.6134468,14.7044426 12.4132085,16.9046809 9.70866383,16.9046809 C7.00411915,16.9046809 4.80398298,14.7044426 4.80398298,12 C4.80398298,9.29555745 7.00422128,7.09531915 9.70866383,7.09531915 C10.7997957,7.09531915 11.8335319,7.44653617 12.6980426,8.11108085 L11.7643915,9.32568511 C11.1700085,8.86876596 10.4590979,8.62723404 9.70866383,8.62723404 C7.84881702,8.62723404 6.33589787,10.1402553 6.33589787,12 C6.33589787,13.8597447 7.84891915,15.372766 9.70866383,15.372766 C11.3051234,15.372766 12.6460596,14.2579404 12.9938043,12.7659574 L9.70866383,12.7659574 L9.70866383,11.2340426 Z M18.8685957,11.2340426 L20.2039149,11.2340426 L20.2039149,12.7659574 L18.8685957,12.7659574 L18.8685957,14.1013787 L17.3366809,14.1013787 L17.3366809,12.7659574 L16.0019745,12.7659574 L16.0019745,11.2340426 L17.3366809,11.2340426 L17.3366809,9.89862128 L18.8685957,9.89862128 L18.8685957,11.2340426 Z"/>
+									</svg>
+								</a>
+							</li>
+							<li>
+								<a target="_blank" href="https://vk.com/creditkarm">
+									<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+										<g fill="#818181" fill-rule="evenodd">
+											<path fill-rule="nonzero" d="M12,0 C5.38314894,0 0,5.38314894 0,12 C0,18.6168511 5.38314894,24 12,24 C18.6168511,24 24,18.6168511 24,12 C24,5.38314894 18.6168511,0 12,0 Z M12,22.4680851 C6.22784681,22.4680851 1.53191489,17.7721532 1.53191489,12 C1.53191489,6.22784681 6.22784681,1.53191489 12,1.53191489 C17.7721532,1.53191489 22.4680851,6.22784681 22.4680851,12 C22.4680851,17.7721532 17.7721532,22.4680851 12,22.4680851 Z"/>
+											<path d="M12.2383084,16.2091684 C12.2383084,16.2091684 12.4613518,16.1846839 12.5752213,16.0619262 C12.6800349,15.9492306 12.6766809,15.7375909 12.6766809,15.7375909 C12.6766809,15.7375909 12.6622585,14.7468087 13.1220969,14.6009081 C13.5753949,14.4571876 14.1574878,15.5584854 14.7744628,15.9819324 C15.2410092,16.3024106 15.5955308,16.2321435 15.5955308,16.2321435 L17.2452134,16.2091684 C17.2452134,16.2091684 18.1082069,16.1560069 17.6990145,15.4774854 C17.6654742,15.4219761 17.4607103,14.9755539 16.4724435,14.058225 C15.4380588,13.0981322 15.5765805,13.2534241 16.8226049,11.5926731 C17.5814556,10.5812636 17.8848281,9.96378551 17.7900766,9.69931977 C17.6996853,9.44743166 17.1415737,9.51400927 17.1415737,9.51400927 L15.2841085,9.5255807 C15.2841085,9.5255807 15.1464254,9.5067981 15.044295,9.56784155 C14.9445124,9.6277111 14.8802826,9.767239 14.8802826,9.767239 C14.8802826,9.767239 14.5863013,10.5499033 14.1942145,11.2155118 C13.3671092,12.6200144 13.0364013,12.6941386 12.9012336,12.6069336 C12.5867927,12.4036791 12.6652772,11.7903936 12.6652772,11.3547043 C12.6652772,9.99363643 12.8717181,9.42613353 12.263296,9.27922675 C12.061383,9.23042552 11.9127992,9.19822678 11.3964453,9.19302802 C10.7336878,9.18615225 10.1727253,9.19504044 9.85509806,9.35066772 C9.64379379,9.45413973 9.48078763,9.68472971 9.5800671,9.69797815 C9.70282482,9.71441293 9.98087441,9.77294086 10.1282843,9.97367992 C10.3186258,10.2326115 10.3119178,10.8142014 10.3119178,10.8142014 C10.3119178,10.8142014 10.4212593,12.4164244 10.0565079,12.6154864 C9.80612913,12.7519957 9.46267584,12.4732753 8.72529101,11.199077 C8.34745884,10.5463816 8.06219808,9.82492842 8.06219808,9.82492842 C8.06219808,9.82492842 8.00719188,9.69009617 7.90908633,9.61798439 C7.79001805,9.53061175 7.62365786,9.50277325 7.62365786,9.50277325 L5.85859638,9.51434468 C5.85859638,9.51434468 5.59362753,9.52172356 5.49636048,9.6369347 C5.40982635,9.7394005 5.48948471,9.95137558 5.48948471,9.95137558 C5.48948471,9.95137558 6.87134757,13.1843309 8.4360054,14.813554 C9.87069433,16.3072739 11.4999173,16.2091684 11.4999173,16.2091684 L12.2383084,16.2091684 Z"/>
+										</g>
+									</svg>
+
+								</a>
+							</li>
+							<li>
+								<a target="_blank" href="https://www.facebook.com/CreditKarm-1883171171922088/">
+									<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+										<g fill="#818181">
+											<path d="M12,0 C5.38314894,0 0,5.38314894 0,12 C0,18.6168511 5.38314894,24 12,24 C18.6168511,24 24,18.6168511 24,12 C24,5.38314894 18.6168511,0 12,0 Z M12,22.4680851 C6.22784681,22.4680851 1.53191489,17.7721532 1.53191489,12 C1.53191489,6.22784681 6.22784681,1.53191489 12,1.53191489 C17.7721532,1.53191489 22.4680851,6.22784681 22.4680851,12 C22.4680851,17.7721532 17.7721532,22.4680851 12,22.4680851 Z"/>
+											<path d="M14.211485,11.877945 L12.6008467,11.877945 L12.6008467,17.7785772 L10.1605928,17.7785772 L10.1605928,11.877945 L9,11.877945 L9,9.80422799 L10.1605928,9.80422799 L10.1605928,8.46229755 C10.1605928,7.50267247 10.6164308,6 12.6225686,6 L14.4301521,6.00756244 L14.4301521,8.0204581 L13.1186323,8.0204581 C12.9035051,8.0204581 12.6010076,8.12794126 12.6010076,8.58571009 L12.6010076,9.80615882 L14.4246814,9.80615882 L14.211485,11.877945 Z"/>
+										</g>
+									</svg>
+
+								</a>
+							</li>
+						</ul>
+					</div>
+				</nav>
+			</div>
+			<div class="col-sm-2 table_mod_cell text-right">
+				<!-- <a href="#" class="header_city"><i class="marker-ico"></i><div class="dib">Россия</div></a> -->
+									<a href="https://creditkarm.ru/login" class="log_in">
+						<i class="glyphicon glyphicon-log-in"></i>
+						Вход
+					</a>
+							</div>
+		</div>
+	</div>
+</header>
+    <div class="content">
+        <div class="row">
+            <div class="col-md-9">
+                <div class="finance_form">
+                    <div class="credit_carma_form">
+                        <!-- CREDIT FORM -->
+
+                    <div class="step" data-step="1" style="">
+	<form id="step_1" class="form_step">
+
+		<div class="form_line credit_notification" id="credit_hint_wrap" >
+			<div class="form_cell_3">
+				<div class="credit_info_block percent_rate" id="percent_rate">94%</div>
+				<span class="percent_rate_hint">Вероятность <br>одобрения</span>
+			</div>
+			<div class="form_cell_3">
+				<div class="credit_info_block probability">Вероятность <br>одобрения</div>
+			</div>
+			<div class="form_cell_6">
+				<div class="credit_info_block credit_hint" id="credit_hint">Может понадобиться паспорт
+				</div>
+			</div>
+		</div>
+
+
+		<div class="slider_section">
+			<div class="slider_row">
+				<!-- Money amount slider-->
+				<div class="money_slider_wrap">
+					<div class="slider_notation">
+						Мне нужно: <span id="money_box"></span>
+						<input type="hidden" class="" id="money_amount" name="amount">
+					</div>
+					<div id="money_slider"></div>
+					<ul class="meter_list clearfix">
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+					</ul>
+					<div class="extreme_points clearfix">
+						<div class="start_point">
+							1.000 <i class="fa fa-rouble"></i> 
+						</div>
+						<div class="end_point">
+							1.000.000 <i class="fa fa-rouble"></i>
+						</div>
+					</div>
+				</div>
+				<!-- Term amount slider -->
+				<div class="money_slider_wrap">
+					<div class="slider_notation">
+						На срок: <span id="term_box"></span>
+						<input type="hidden" class="" id="term_amount" name="term">
+					</div>
+					<div id="term_slider"></div>
+					<ul class="meter_list clearfix">
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+						<li class="meter_item"></li>
+					</ul>
+					<div class="extreme_points clearfix">
+						<div class="start_point">
+							1 неделя
+						</div>
+						<div class="end_point">
+							5 лет
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="form_body">
+			<div class="form_section_head">Персональные данные</div>
+			<div class="form_line">
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="last_name" class="form_label_block">Фамилия *</label>
+						<input type="text" class="form_input_block" id="last_name" name="last_name" placeholder="Иванов"
+							   data-hint="Фамилия должна быть написана русскими буквами">
+					</div>
+				</div>
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="name" class="form_label_block">Имя *</label>
+						<input type="text" class="form_input_block" id="name" name="first_name" placeholder="Иван"
+							   data-hint="Имя должно быть написано русскими буквами">
+					</div>
+				</div>
+			</div>
+			<div class="form_line">
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="patronymic" class="form_label_block">Отчество *</label>
+						<input type="text" class="form_input_block" id="patronymic" name="father_name"
+							   placeholder="Иванович"
+							   data-hint="Отчество должно быть написано русскими буквами">
+					</div>
+				</div>
+				<div class="form_cell_6">
+					<div class="form_block no_mb">
+						<div class="form_label_block">Дата рождения *</div>
+						<div class="form_line">
+							<div class="form_cell_4">
+								<div class="form_block">
+									<select name="birth_date_day" class="form_input_block" data-hint="" title="Число">
+										<option value="" disabled="" selected="" hidden="">Число</option>
+										<option value="01">1</option>
+										<option value="02">2</option>
+										<option value="03">3</option>
+										<option value="04">4</option>
+										<option value="05">5</option>
+										<option value="06">6</option>
+										<option value="07">7</option>
+										<option value="08">8</option>
+										<option value="09">9</option>
+										<option value="10">10</option>
+										<option value="11">11</option>
+										<option value="12">12</option>
+										<option value="13">13</option>
+										<option value="14">14</option>
+										<option value="15">15</option>
+										<option value="16">16</option>
+										<option value="17">17</option>
+										<option value="18">18</option>
+										<option value="19">19</option>
+										<option value="20">20</option>
+										<option value="21">21</option>
+										<option value="22">22</option>
+										<option value="23">23</option>
+										<option value="24">24</option>
+										<option value="25">25</option>
+										<option value="26">26</option>
+										<option value="27">27</option>
+										<option value="28">28</option>
+										<option value="29">29</option>
+										<option value="30">30</option>
+										<option value="31">31</option>
+									</select>
+								</div>
+							</div>
+							<div class="form_cell_4">
+								<div class="form_block">
+									<select name="birth_date_month" class="form_input_block" data-hint="" title="Месяц">
+										<option value="" disabled="" selected="" hidden="">Месяц</option>
+										<option value="01">Январь</option>
+										<option value="02">Февраль</option>
+										<option value="03">Март</option>
+										<option value="04">Апрель</option>
+										<option value="05">Май</option>
+										<option value="06">Июнь</option>
+										<option value="07">Июль</option>
+										<option value="08">Август</option>
+										<option value="09">Сентябрь</option>
+										<option value="10">Октябрь</option>
+										<option value="11">Ноябрь</option>
+										<option value="12">Декабрь</option>
+									</select>
+								</div>
+							</div>
+							<div class="form_cell_4">
+								<div class="form_block">
+									<select name="birth_date_year" class="form_input_block" data-hint="" title="Год">
+										<option value="" disabled="" selected="" hidden="">Год</option>
+										<option value="1998">1999</option>
+										<option value="1998">1998</option>
+										<option value="1997">1997</option>
+										<option value="1996">1996</option>
+										<option value="1995">1995</option>
+										<option value="1994">1994</option>
+										<option value="1993">1993</option>
+										<option value="1992">1992</option>
+										<option value="1991">1991</option>
+										<option value="1990">1990</option>
+										<option value="1989">1989</option>
+										<option value="1988">1988</option>
+										<option value="1987">1987</option>
+										<option value="1986">1986</option>
+										<option value="1985">1985</option>
+										<option value="1984">1984</option>
+										<option value="1983">1983</option>
+										<option value="1982">1982</option>
+										<option value="1981">1981</option>
+										<option value="1980">1980</option>
+										<option value="1979">1979</option>
+										<option value="1978">1978</option>
+										<option value="1977">1977</option>
+										<option value="1976">1976</option>
+										<option value="1975">1975</option>
+										<option value="1974">1974</option>
+										<option value="1973">1973</option>
+										<option value="1972">1972</option>
+										<option value="1971">1971</option>
+										<option value="1970">1970</option>
+										<option value="1969">1969</option>
+										<option value="1968">1968</option>
+										<option value="1967">1967</option>
+										<option value="1966">1966</option>
+										<option value="1965">1965</option>
+										<option value="1964">1964</option>
+										<option value="1963">1963</option>
+										<option value="1962">1962</option>
+										<option value="1961">1961</option>
+										<option value="1960">1960</option>
+										<option value="1959">1959</option>
+										<option value="1958">1958</option>
+										<option value="1957">1957</option>
+										<option value="1956">1956</option>
+										<option value="1955">1955</option>
+										<option value="1954">1954</option>
+										<option value="1953">1953</option>
+										<option value="1952">1952</option>
+										<option value="1951">1951</option>
+										<option value="1950">1950</option>
+										<option value="1949">1949</option>
+										<option value="1948">1948</option>
+										<option value="1947">1947</option>
+										<option value="1946">1946</option>
+										<option value="1945">1945</option>
+										<option value="1944">1944</option>
+										<option value="1943">1943</option>
+										<option value="1942">1942</option>
+										<option value="1941">1941</option>
+									</select>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="form_line">
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="phone" class="form_label_block">Мобильный телефон *</label>
+						<input type="tel" class="form_input_block" id="phone" name="phone" placeholder="+7(900)0000000"
+							   data-hint="Введите 10 цифр Пример: 9051234567">
+					</div>
+				</div>
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="city" class="form_label_block">Город проживания *</label>
+						<input type="text" class="form_input_block" id="city" name="city" placeholder="Например: Москва"
+							   data-hint="Введите несколько символов названия города и выберите его из выпадающего списка">
+					</div>
+				</div>
+			</div>
+
+
+			<div class="form_line">
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="email" class="form_label_block">Email *</label>
+						<input type="email" class="form_input_block" id="email" name="email" placeholder="test@mail.ru"
+							   data-hint="Укажите корректный email. На него будет выслано письмо с подтверждением">
+					</div>
+				</div>
+				<div class="form_cell_6">
+
+					<div id="credit_story" class="form_block">
+						<label for="credit_history" class="form_label_block">Кредитная история</label>
+						<select name="credit_history" id="credit_history" class="form_input_block" data-hint="">
+							<option value="" disabled selected hidden>Выберите из списка</option>
+							<option label="Есть кредит, были просрочки платежа" value="Есть кредит, были просрочки платежа">Есть кредит, были просрочки платежа</option>
+							<option label="Есть текущая просроченная задолженность" value="Есть текущая просроченная задолженность">Есть текущая просроченная задолженность</option>
+							<option label="Есть кредит, просрочек нет" value="Есть кредит, просрочек нет">Есть кредит, просрочек нет</option>
+							<option label="Никогда не брал кредит" value="Никогда не брал кредит">Никогда не брал кредит</option>
+							<option label="Кредит погашен, были просрочки" value="Кредит погашен, были просрочки">Кредит погашен, были просрочки</option>
+							<option label="Кредит погашен, просрочек не было" value="Кредит погашен, просрочек не было">Кредит погашен, просрочек не было</option>
+						</select>
+					</div>
+
+
+					
+						
+						
+							
+								
+									
+								
+								
+									
+								
+								
+									
+								
+								
+									
+								
+								
+									
+								
+								
+									
+								
+								
+									
+								
+								
+									 
+								
+								
+									
+								
+							
+							
+								
+
+									
+										
+
+											
+												
+													
+											
+
+										
+
+										
+
+											
+												
+													   
+												
+														
+											
+
+										
+									
+									
+										
+
+											
+												
+												
+														
+											
+
+										
+										
+
+											
+												
+													
+											
+
+										
+									
+									
+										
+
+											
+												
+													
+											
+
+										
+										
+
+											
+												
+													
+											
+
+										
+									
+
+									
+
+										
+
+											
+												
+													
+											
+
+										
+										
+
+											
+												
+												
+														
+											
+
+										
+									
+
+
+									
+										
+									
+								
+							
+						
+					
+				</div>
+			</div>
+
+			<div class="form_block">
+				<div class="checkbox_block">
+					<input type="checkbox" class="form_checkbox" id="agree" name="agree_with_terms">
+					<label for="agree">Я ознакомлен(а) с <a href="http://creditkarm.ru/policy" rel="nofollow" target="_blank">политикой</a> и даю свое согласие на <a href="http://creditkarm.ru/rules" rel="nofollow" target="_blank">обработку персональных данных</a></label>
+				</div>
+			</div>
+
+
+			<div class="form_block centered">
+				<button id="to_step_2" type="submit" class="btn btn_gold">Далее &rarr;</button>
+			</div>
+		</div>
+	</form>
+</div><!-- //step -->
+                    
+
+                    <div class="step" data-step="3" style="display: none;" data-step-strategy="micro">
+    <form id="step_3_micro" class="form_step">
+        <div class="form_head">
+            <div class="form_header">ВАША ЗАЯВКА РАССМАТРИВАЕТСЯ.</div>
+            <div class="form_subheader">Заполните паспортные данные, <span class="form_subheader_mark">чтобы ускорить получение денег.</span>
+            </div>
+        </div>
+        <div class="form_body">
+            <div class="form_section_head">Паспортные данные</div>
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="pas_series" class="form_label_block">Серия паспорта *</label>
+                        <input name="pas_s" type="text" class="form_input_block" id="pas_series" placeholder="0000"
+                               data-hint="Пожалуйста, введите серию паспорта (4 цифры).">
+                    </div>
+                </div>
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="pas_num" class="form_label_block">Номер паспорта *</label>
+                        <input name="pas_n" type="text" class="form_input_block" id="pas_num" placeholder="000000"
+                               data-hint="Пожалуйста, введите номер паспорта (6 цифр).">
+                    </div>
+                </div>
+            </div>
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="pas_emit" class="form_label_block">Паспорт выдан *</label>
+                        <input name="pas_p" type="text" class="form_input_block" id="pas_emit" placeholder="Организация выдавшая паспорт"
+                               data-hint="Пожалуйста, введите наименование органа, точно как в Вашем паспорте (русскими буквами).">
+                    </div>
+                </div>
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label class="form_label_block">Дата выдачи паспорта *</label>
+                        <div class="form_line">
+                            <div class="form_cell_4">
+                                <div class="form_block">
+                                    <select name="pas_d_day" class="form_input_block" data-hint="" title="Число">
+                                        <option value="" disabled="" selected="" hidden="">Число</option>
+                                        <option value="01">1</option>
+                                        <option value="02">2</option>
+                                        <option value="03">3</option>
+                                        <option value="04">4</option>
+                                        <option value="05">5</option>
+                                        <option value="06">6</option>
+                                        <option value="07">7</option>
+                                        <option value="08">8</option>
+                                        <option value="09">9</option>
+                                        <option value="10">10</option>
+                                        <option value="11">11</option>
+                                        <option value="12">12</option>
+                                        <option value="13">13</option>
+                                        <option value="14">14</option>
+                                        <option value="15">15</option>
+                                        <option value="16">16</option>
+                                        <option value="17">17</option>
+                                        <option value="18">18</option>
+                                        <option value="19">19</option>
+                                        <option value="20">20</option>
+                                        <option value="21">21</option>
+                                        <option value="22">22</option>
+                                        <option value="23">23</option>
+                                        <option value="24">24</option>
+                                        <option value="25">25</option>
+                                        <option value="26">26</option>
+                                        <option value="27">27</option>
+                                        <option value="28">28</option>
+                                        <option value="29">29</option>
+                                        <option value="30">30</option>
+                                        <option value="31">31</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form_cell_4">
+                                <div class="form_block">
+                                    <select name="pas_d_month" class="form_input_block" data-hint="" title="Месяц">
+                                        <option value="" disabled="" selected="" hidden="">Месяц</option>
+                                        <option value="01">Январь</option>
+                                        <option value="02">Февраль</option>
+                                        <option value="03">Март</option>
+                                        <option value="04">Апрель</option>
+                                        <option value="05">Май</option>
+                                        <option value="06">Июнь</option>
+                                        <option value="07">Июль</option>
+                                        <option value="08">Август</option>
+                                        <option value="09">Сентябрь</option>
+                                        <option value="10">Октябрь</option>
+                                        <option value="11">Ноябрь</option>
+                                        <option value="12">Декабрь</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form_cell_4">
+                                <div class="form_block">
+                                    <select name="pas_d_year" class="form_input_block" data-hint="" title="Год">
+                                        <option value="" disabled="" selected="" hidden="">Год</option>
+                                        <option value="2016">2017</option>
+                                        <option value="2016">2016</option>
+                                        <option value="2015">2015</option>
+                                        <option value="2014">2014</option>
+                                        <option value="2013">2013</option>
+                                        <option value="2012">2012</option>
+                                        <option value="2011">2011</option>
+                                        <option value="2010">2010</option>
+                                        <option value="2009">2009</option>
+                                        <option value="2008">2008</option>
+                                        <option value="2007">2007</option>
+                                        <option value="2006">2006</option>
+                                        <option value="2005">2005</option>
+                                        <option value="2004">2004</option>
+                                        <option value="2003">2003</option>
+                                        <option value="2002">2002</option>
+                                        <option value="2001">2001</option>
+                                        <option value="2000">2000</option>
+                                        <option value="1999">1999</option>
+                                        <option value="1998">1998</option>
+                                        <option value="1997">1997</option>
+                                        <option value="1996">1996</option>
+                                        <option value="1995">1995</option>
+                                        <option value="1994">1994</option>
+                                        <option value="1993">1993</option>
+                                        <option value="1992">1992</option>
+                                        <option value="1991">1991</option>
+                                        <option value="1990">1990</option>
+                                        <option value="1989">1989</option>
+                                        <option value="1988">1988</option>
+                                        <option value="1987">1987</option>
+                                        <option value="1986">1986</option>
+                                        <option value="1985">1985</option>
+                                        <option value="1984">1984</option>
+                                        <option value="1983">1983</option>
+                                        <option value="1982">1982</option>
+                                        <option value="1981">1981</option>
+                                        <option value="1980">1980</option>
+                                        <option value="1979">1979</option>
+                                        <option value="1978">1978</option>
+                                        <option value="1977">1977</option>
+                                        <option value="1976">1976</option>
+                                        <option value="1975">1975</option>
+                                        <option value="1974">1974</option>
+                                        <option value="1973">1973</option>
+                                        <option value="1972">1972</option>
+                                        <option value="1971">1971</option>
+                                        <option value="1970">1970</option>
+                                        <option value="1969">1969</option>
+                                        <option value="1968">1968</option>
+                                        <option value="1967">1967</option>
+                                        <option value="1966">1966</option>
+                                        <option value="1965">1965</option>
+                                        <option value="1964">1964</option>
+                                        <option value="1963">1963</option>
+                                        <option value="1962">1962</option>
+                                        <option value="1961">1961</option>
+                                        <option value="1960">1960</option>
+                                        <option value="1959">1959</option>
+                                        <option value="1958">1958</option>
+                                        <option value="1957">1957</option>
+                                        <option value="1956">1956</option>
+                                        <option value="1955">1955</option>
+                                        <option value="1954">1954</option>
+                                        <option value="1953">1953</option>
+                                        <option value="1952">1952</option>
+                                        <option value="1951">1951</option>
+                                        <option value="1950">1950</option>
+                                        <option value="1949">1949</option>
+                                        <option value="1948">1948</option>
+                                        <option value="1947">1947</option>
+                                        <option value="1946">1946</option>
+                                        <option value="1945">1945</option>
+                                        <option value="1944">1944</option>
+                                        <option value="1943">1943</option>
+                                        <option value="1942">1942</option>
+                                        <option value="1941">1941</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="office_code" class="form_label_block">Код подразделения *</label>
+                        <input name="pas_c" type="text" class="form_input_block" id="office_code" placeholder="000-000"
+                               data-hint="<img src='http://static.leadia.ru/forms/paydayru/p_code.jpg' style='max-width: 200px;width: 100%; height: auto;'>">
+                    </div>
+                </div>
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="birth_place" class="form_label_block">Место рождения *</label>
+                        <input name="birth_place" type="text" class="form_input_block" id="birth_place" placeholder="Например: Москва"
+                               data-hint="Пожалуйста, введите наименование города или населенного пункта, в котором вы родились.">
+                    </div>
+                </div>
+            </div>
+            <div class="form_section_head">Заполните свой адрес прописки</div>
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="reg_region" class="form_label_block">Регион прописки *</label>
+                        <select name="region_r" class="form_input_block" id="reg_region" data-hint="">
+                            <option value="" disabled="" selected="" hidden="">Выберите регион</option>
+                            <option label="Алтайский край" value="Алтайский край">Алтайский край</option>
+                            <option label="Амурская область" value="Амурская область">Амурская область</option>
+                            <option label="Архангельская область" value="Архангельская область">Архангельская область
+                            </option>
+                            <option label="Астраханская область" value="Астраханская область">Астраханская область</option>
+                            <option label="Белгородская область" value="Белгородская область">Белгородская область</option>
+                            <option label="Брянская область" value="Брянская область">Брянская область</option>
+                            <option label="Владимирская область" value="Владимирская область">Владимирская область</option>
+                            <option label="Волгоградская область" value="Волгоградская область">Волгоградская область
+                            </option>
+                            <option label="Вологодская область" value="Вологодская область">Вологодская область</option>
+                            <option label="Воронежская область" value="Воронежская область">Воронежская область</option>
+                            <option label="Еврейская автономная область" value="Еврейская автономная область">Еврейская
+                                автономная
+                                область
+                            </option>
+                            <option label="Забайкальский край" value="Забайкальский край">Забайкальский край</option>
+                            <option label="Ивановская область" value="Ивановская область">Ивановская область</option>
+                            <option label="Иркутская область" value="Иркутская область">Иркутская область</option>
+                            <option label="Калининградская область" value="Калининградская область">Калининградская область
+                            </option>
+                            <option label="Калужская область" value="Калужская область">Калужская область</option>
+                            <option label="Камчатский край" value="Камчатский край">Камчатский край</option>
+                            <option label="Кемеровская область" value="Кемеровская область">Кемеровская область</option>
+                            <option label="Кировская область" value="Кировская область">Кировская область</option>
+                            <option label="Костромская область" value="Костромская область">Костромская область</option>
+                            <option label="Краснодарский край" value="Краснодарский край">Краснодарский край</option>
+                            <option label="Красноярский край" value="Красноярский край">Красноярский край</option>
+                            <option label="Крым" value="Крым">Крым</option>
+                            <option label="Курганская область" value="Курганская область">Курганская область</option>
+                            <option label="Курская область" value="Курская область">Курская область</option>
+                            <option label="Ленинградская область" value="Ленинградская область">Ленинградская область
+                            </option>
+                            <option label="Липецкая область" value="Липецкая область">Липецкая область</option>
+                            <option label="Магаданская область" value="Магаданская область">Магаданская область</option>
+                            <option label="Москва" value="Москва">Москва</option>
+                            <option label="Московская область" value="Московская область">Московская область</option>
+                            <option label="Мурманская область" value="Мурманская область">Мурманская область</option>
+                            <option label="Ненецкий автономный округ" value="Ненецкий автономный округ">Ненецкий автономный
+                                округ
+                            </option>
+                            <option label="Нижегородская область" value="Нижегородская область">Нижегородская область
+                            </option>
+                            <option label="Новгородская область" value="Новгородская область">Новгородская область</option>
+                            <option label="Новосибирская область" value="Новосибирская область">Новосибирская область
+                            </option>
+                            <option label="Омская область" value="Омская область">Омская область</option>
+                            <option label="Оренбургская область" value="Оренбургская область">Оренбургская область</option>
+                            <option label="Орловская область" value="Орловская область">Орловская область</option>
+                            <option label="Пензенская область" value="Пензенская область">Пензенская область</option>
+                            <option label="Пермский край" value="Пермский край">Пермский край</option>
+                            <option label="Приморский край" value="Приморский край">Приморский край</option>
+                            <option label="Псковская область" value="Псковская область">Псковская область</option>
+                            <option label="Республика Адыгея" value="Республика Адыгея">Республика Адыгея</option>
+                            <option label="Республика Алтай" value="Республика Алтай">Республика Алтай</option>
+                            <option label="Республика Башкортостан" value="Республика Башкортостан">Республика Башкортостан
+                            </option>
+                            <option label="Республика Бурятия" value="Республика Бурятия">Республика Бурятия</option>
+                            <option label="Республика Дагестан" value="Республика Дагестан">Республика Дагестан</option>
+                            <option label="Республика Ингушетия" value="Республика Ингушетия">Республика Ингушетия</option>
+                            <option label="Республика Кабардино-Балкария" value="Республика Кабардино-Балкария">Республика
+                                Кабардино-Балкария
+                            </option>
+                            <option label="Республика Калмыкия" value="Республика Калмыкия">Республика Калмыкия</option>
+                            <option label="Республика Карачаево-Черкессия" value="Республика Карачаево-Черкессия">Республика
+                                Карачаево-Черкессия
+                            </option>
+                            <option label="Республика Карелия" value="Республика Карелия">Республика Карелия</option>
+                            <option label="Республика Коми" value="Республика Коми">Республика Коми</option>
+                            <option label="Республика Марий Эл" value="Республика Марий Эл">Республика Марий Эл</option>
+                            <option label="Республика Мордовия" value="Республика Мордовия">Республика Мордовия</option>
+                            <option label="Республика Саха (Якутия)" value="Республика Саха (Якутия)">Республика Саха
+                                (Якутия)
+                            </option>
+                            <option label="Республика Северная Осетия (Алания)" value="Республика Северная Осетия (Алания)">
+                                Республика
+                                Северная Осетия (Алания)
+                            </option>
+                            <option label="Республика Татарстан" value="Республика Татарстан">Республика Татарстан</option>
+                            <option label="Республика Тыва (Тува)" value="Республика Тыва (Тува)">Республика Тыва (Тува)
+                            </option>
+                            <option label="Республика Удмуртия" value="Республика Удмуртия">Республика Удмуртия</option>
+                            <option label="Республика Хакасия" value="Республика Хакасия">Республика Хакасия</option>
+                            <option label="Республика Чечня" value="Республика Чечня">Республика Чечня</option>
+                            <option label="Республика Чувашия" value="Республика Чувашия">Республика Чувашия</option>
+                            <option label="Ростовская область" value="Ростовская область">Ростовская область</option>
+                            <option label="Рязанская область" value="Рязанская область">Рязанская область</option>
+                            <option label="Самарская область" value="Самарская область">Самарская область</option>
+                            <option label="Санкт-Петербург" value="Санкт-Петербург">Санкт-Петербург</option>
+                            <option label="Саратовская область" value="Саратовская область">Саратовская область</option>
+                            <option label="Сахалинская область" value="Сахалинская область">Сахалинская область</option>
+                            <option label="Свердловская область" value="Свердловская область">Свердловская область</option>
+                            <option label="Смоленская область" value="Смоленская область">Смоленская область</option>
+                            <option label="Ставропольский край" value="Ставропольский край">Ставропольский край</option>
+                            <option label="Тамбовская область" value="Тамбовская область">Тамбовская область</option>
+                            <option label="Тверская область" value="Тверская область">Тверская область</option>
+                            <option label="Томская область" value="Томская область">Томская область</option>
+                            <option label="Тульская область" value="Тульская область">Тульская область</option>
+                            <option label="Тюменская область" value="Тюменская область">Тюменская область</option>
+                            <option label="Ульяновская область" value="Ульяновская область">Ульяновская область</option>
+                            <option label="Хабаровский край" value="Хабаровский край">Хабаровский край</option>
+                            <option label="Ханты-Мансийский автономный округ" value="Ханты-Мансийский автономный округ">
+                                Ханты-Мансийский
+                                автономный округ
+                            </option>
+                            <option label="Челябинская область" value="Челябинская область">Челябинская область</option>
+                            <option label="Чукотский автономный округ" value="Чукотский автономный округ">Чукотский
+                                автономный
+                                округ
+                            </option>
+                            <option label="Ямало-Ненецкий автономный округ" value="Ямало-Ненецкий автономный округ">
+                                Ямало-Ненецкий
+                                автономный округ
+                            </option>
+                            <option label="Ярославская область" value="Ярославская область">Ярославская область</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="reg_city" class="form_label_block">Город прописки *</label>
+                        <input name="city_r" type="text" class="form_input_block" id="reg_city" placeholder="Например: Москва"
+                               data-hint="Город должен быть написан русскими буквами.">
+                    </div>
+                </div>
+            </div>
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="reg_street" class="form_label_block">Улица прописки *</label>
+                        <input name="street" type="text" class="form_input_block" id="reg_street" placeholder="Улица"
+                               data-hint="Улица должна быть написана русскими буквами.">
+                    </div>
+                </div>
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="reg_house" class="form_label_block">Дом прописки *</label>
+                        <input name="house" type="text" class="form_input_block" id="reg_house" placeholder="26"
+                               data-hint="Пожалуйста, введите номер дома.">
+                    </div>
+                </div>
+            </div>
+            <div class="form_block centered">
+                <div class="radio_head">
+                    <b>Место проживания совпадает с местом прописки?</b>
+                </div>
+                <div class="radio_block">
+                    <input type="radio" name="registration_place_equal" id="place_equal" value="1" class="form_radio"
+                           checked>
+                    <label for="place_equal">Да</label>
+                </div>
+                <div class="radio_block">
+                    <input type="radio" name="registration_place_equal" id="place_inequal" value="0" class="form_radio">
+                    <label for="place_inequal">Нет</label>
+                </div>
+            </div>
+            <div id="js_addition_place">
+                <div class="form_line">
+                    <div class="form_cell_6">
+                        <div class="form_block">
+                            <label for="add_reg_region" class="form_label_block">Регион проживания *</label>
+                            <select name="add_region_r" class="form_input_block" id="add_reg_region" data-hint="" disabled>
+                                <option value="" disabled="" selected="" hidden="">Выберите регион</option>
+                                <option label="Алтайский край" value="Алтайский край">Алтайский край</option>
+                                <option label="Амурская область" value="Амурская область">Амурская область</option>
+                                <option label="Архангельская область" value="Архангельская область">Архангельская область
+                                </option>
+                                <option label="Астраханская область" value="Астраханская область">Астраханская область
+                                </option>
+                                <option label="Белгородская область" value="Белгородская область">Белгородская область
+                                </option>
+                                <option label="Брянская область" value="Брянская область">Брянская область</option>
+                                <option label="Владимирская область" value="Владимирская область">Владимирская область
+                                </option>
+                                <option label="Волгоградская область" value="Волгоградская область">Волгоградская область
+                                </option>
+                                <option label="Вологодская область" value="Вологодская область">Вологодская область</option>
+                                <option label="Воронежская область" value="Воронежская область">Воронежская область</option>
+                                <option label="Еврейская автономная область" value="Еврейская автономная область">Еврейская
+                                    автономная
+                                    область
+                                </option>
+                                <option label="Забайкальский край" value="Забайкальский край">Забайкальский край</option>
+                                <option label="Ивановская область" value="Ивановская область">Ивановская область</option>
+                                <option label="Иркутская область" value="Иркутская область">Иркутская область</option>
+                                <option label="Калининградская область" value="Калининградская область">Калининградская
+                                    область
+                                </option>
+                                <option label="Калужская область" value="Калужская область">Калужская область</option>
+                                <option label="Камчатский край" value="Камчатский край">Камчатский край</option>
+                                <option label="Кемеровская область" value="Кемеровская область">Кемеровская область</option>
+                                <option label="Кировская область" value="Кировская область">Кировская область</option>
+                                <option label="Костромская область" value="Костромская область">Костромская область</option>
+                                <option label="Краснодарский край" value="Краснодарский край">Краснодарский край</option>
+                                <option label="Красноярский край" value="Красноярский край">Красноярский край</option>
+                                <option label="Крым" value="Крым">Крым</option>
+                                <option label="Курганская область" value="Курганская область">Курганская область</option>
+                                <option label="Курская область" value="Курская область">Курская область</option>
+                                <option label="Ленинградская область" value="Ленинградская область">Ленинградская область
+                                </option>
+                                <option label="Липецкая область" value="Липецкая область">Липецкая область</option>
+                                <option label="Магаданская область" value="Магаданская область">Магаданская область</option>
+                                <option label="Москва" value="Москва">Москва</option>
+                                <option label="Московская область" value="Московская область">Московская область</option>
+                                <option label="Мурманская область" value="Мурманская область">Мурманская область</option>
+                                <option label="Ненецкий автономный округ" value="Ненецкий автономный округ">Ненецкий
+                                    автономный
+                                    округ
+                                </option>
+                                <option label="Нижегородская область" value="Нижегородская область">Нижегородская область
+                                </option>
+                                <option label="Новгородская область" value="Новгородская область">Новгородская область
+                                </option>
+                                <option label="Новосибирская область" value="Новосибирская область">Новосибирская область
+                                </option>
+                                <option label="Омская область" value="Омская область">Омская область</option>
+                                <option label="Оренбургская область" value="Оренбургская область">Оренбургская область
+                                </option>
+                                <option label="Орловская область" value="Орловская область">Орловская область</option>
+                                <option label="Пензенская область" value="Пензенская область">Пензенская область</option>
+                                <option label="Пермский край" value="Пермский край">Пермский край</option>
+                                <option label="Приморский край" value="Приморский край">Приморский край</option>
+                                <option label="Псковская область" value="Псковская область">Псковская область</option>
+                                <option label="Республика Адыгея" value="Республика Адыгея">Республика Адыгея</option>
+                                <option label="Республика Алтай" value="Республика Алтай">Республика Алтай</option>
+                                <option label="Республика Башкортостан" value="Республика Башкортостан">Республика
+                                    Башкортостан
+                                </option>
+                                <option label="Республика Бурятия" value="Республика Бурятия">Республика Бурятия</option>
+                                <option label="Республика Дагестан" value="Республика Дагестан">Республика Дагестан</option>
+                                <option label="Республика Ингушетия" value="Республика Ингушетия">Республика Ингушетия
+                                </option>
+                                <option label="Республика Кабардино-Балкария" value="Республика Кабардино-Балкария">
+                                    Республика
+                                    Кабардино-Балкария
+                                </option>
+                                <option label="Республика Калмыкия" value="Республика Калмыкия">Республика Калмыкия</option>
+                                <option label="Республика Карачаево-Черкессия" value="Республика Карачаево-Черкессия">
+                                    Республика
+                                    Карачаево-Черкессия
+                                </option>
+                                <option label="Республика Карелия" value="Республика Карелия">Республика Карелия</option>
+                                <option label="Республика Коми" value="Республика Коми">Республика Коми</option>
+                                <option label="Республика Марий Эл" value="Республика Марий Эл">Республика Марий Эл</option>
+                                <option label="Республика Мордовия" value="Республика Мордовия">Республика Мордовия</option>
+                                <option label="Республика Саха (Якутия)" value="Республика Саха (Якутия)">Республика Саха
+                                    (Якутия)
+                                </option>
+                                <option label="Республика Северная Осетия (Алания)"
+                                        value="Республика Северная Осетия (Алания)">
+                                    Республика
+                                    Северная Осетия (Алания)
+                                </option>
+                                <option label="Республика Татарстан" value="Республика Татарстан">Республика Татарстан
+                                </option>
+                                <option label="Республика Тыва (Тува)" value="Республика Тыва (Тува)">Республика Тыва (Тува)
+                                </option>
+                                <option label="Республика Удмуртия" value="Республика Удмуртия">Республика Удмуртия</option>
+                                <option label="Республика Хакасия" value="Республика Хакасия">Республика Хакасия</option>
+                                <option label="Республика Чечня" value="Республика Чечня">Республика Чечня</option>
+                                <option label="Республика Чувашия" value="Республика Чувашия">Республика Чувашия</option>
+                                <option label="Ростовская область" value="Ростовская область">Ростовская область</option>
+                                <option label="Рязанская область" value="Рязанская область">Рязанская область</option>
+                                <option label="Самарская область" value="Самарская область">Самарская область</option>
+                                <option label="Санкт-Петербург" value="Санкт-Петербург">Санкт-Петербург</option>
+                                <option label="Саратовская область" value="Саратовская область">Саратовская область</option>
+                                <option label="Сахалинская область" value="Сахалинская область">Сахалинская область</option>
+                                <option label="Свердловская область" value="Свердловская область">Свердловская область
+                                </option>
+                                <option label="Смоленская область" value="Смоленская область">Смоленская область</option>
+                                <option label="Ставропольский край" value="Ставропольский край">Ставропольский край</option>
+                                <option label="Тамбовская область" value="Тамбовская область">Тамбовская область</option>
+                                <option label="Тверская область" value="Тверская область">Тверская область</option>
+                                <option label="Томская область" value="Томская область">Томская область</option>
+                                <option label="Тульская область" value="Тульская область">Тульская область</option>
+                                <option label="Тюменская область" value="Тюменская область">Тюменская область</option>
+                                <option label="Ульяновская область" value="Ульяновская область">Ульяновская область</option>
+                                <option label="Хабаровский край" value="Хабаровский край">Хабаровский край</option>
+                                <option label="Ханты-Мансийский автономный округ" value="Ханты-Мансийский автономный округ">
+                                    Ханты-Мансийский
+                                    автономный округ
+                                </option>
+                                <option label="Челябинская область" value="Челябинская область">Челябинская область</option>
+                                <option label="Чукотский автономный округ" value="Чукотский автономный округ">Чукотский
+                                    автономный
+                                    округ
+                                </option>
+                                <option label="Ямало-Ненецкий автономный округ" value="Ямало-Ненецкий автономный округ">
+                                    Ямало-Ненецкий
+                                    автономный округ
+                                </option>
+                                <option label="Ярославская область" value="Ярославская область">Ярославская область</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form_cell_6">
+                        <div class="form_block">
+                            <label for="add_reg_city" class="form_label_block">Город проживания *</label>
+                            <input name="add_city_r" type="text" class="form_input_block" id="add_reg_city" placeholder="Например: Москва"
+                                   data-hint="Город должен быть написан русскими буквами." disabled>
+                        </div>
+                    </div>
+                </div>
+                <div class="form_line">
+                    <div class="form_cell_6">
+                        <div class="form_block">
+                            <label for="add_reg_street" class="form_label_block">Улица проживания *</label>
+                            <input name="add_street" type="text" class="form_input_block" id="add_reg_street" placeholder="Улица"
+                                   data-hint="Улица должна быть написана русскими буквами." disabled>
+                        </div>
+                    </div>
+                    <div class="form_cell_6">
+                        <div class="form_block">
+                            <label for="add_reg_house" class="form_label_block">Дом проживания *</label>
+                            <input name="add_house" type="text" class="form_input_block" id="add_reg_house" placeholder="26"
+                                   data-hint="Пожалуйста, введите номер дома." disabled>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="form_block centered">
+                <button id="to_step_4" type="submit" class="btn btn_gold">Далее &rarr;</button>
+            </div>
+        </div>
+    </form>
+</div><!-- //step -->
+
+                    <div class="step" data-step="4" style="display: none;" data-step-strategy="micro">
+    <form id="step_4_micro" class="form_step">
+        <div class="form_head">
+            <div class="form_header">ВАША ЗАЯВКА ОЖИДАЕТ ПРОВЕРКИ.</div>
+            <div class="form_subheader">Оставьте дополнительную информацию, <span class="form_subheader_mark">чтобы получить выгодный кредит сейчас!</span>
+            </div>
+        </div>
+        <div class="form_body">
+            <div class="form_section_head">Данные о доходе и работе</div>
+
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="work_form" class="form_label_block">Форма трудоустройства *</label>
+                        <select name="employee" class="form_input_block" data-hint="" id="work_form">
+                            <option value="" disabled selected>Выберите форму трудоустройства</option>
+                            <option value="По трудовому договору">По трудовому договору</option>
+                            <option value="Владелец бизнеса">Владелец бизнеса</option>
+                            <option value="ИП (ИЧП, ПБОЮЛ)">ИП (ИЧП, ПБОЮЛ)</option>
+                            <option value="Постоянная работа по договору найма">Постоянная работа по договору найма</option>
+                            <option value="Государственный служащий">Государственный служащий</option>
+                            <option value="Не трудоустроен">Не трудоустроен</option>
+                            <option value="Учусь">Учусь</option>
+                            <option value="Пенсионер">Пенсионер</option>
+                            <option value="Иной источник постоянного дохода">Иной источник постоянного дохода</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="work_money" class="form_label_block">Месячный заработок *</label>
+                        <select name="salary" class="form_input_block" data-hint="" id="work_money">
+                            <option value="" disabled selected hidden>Укажите месячный заработок</option>
+                            <option value="5000">5 000 руб</option>
+                            <option value="10000">10 000 руб</option>
+                            <option value="15000">15 000 руб</option>
+                            <option value="20000">20 000 руб</option>
+                            <option value="25000">25 000 руб</option>
+                            <option value="30000">30 000 руб</option>
+                            <option value="35000">35 000 руб</option>
+                            <option value="40000">40 000 руб</option>
+                            <option value="45000">45 000 руб</option>
+                            <option value="50000">50 000 руб</option>
+                            <option value="60000">60 000 руб</option>
+                            <option value="70000">70 000 руб</option>
+                            <option value="80000">80 000 руб</option>
+                            <option value="90000">90 000 руб</option>
+                            <option value="100000">100 000 руб</option>
+                            <option value="110000">110 000 руб</option>
+                            <option value="120000">120 000 руб</option>
+                            <option value="130000">130 000 руб</option>
+                            <option value="140000">140 000 руб</option>
+                            <option value="150000">150 000 руб</option>
+                            <option value="Более 150 000">Более 150 000 руб</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="work_stage" class="form_label_block">Cтаж на текущем месте работы *</label>
+                        <select name="stage" class="form_input_block" data-hint="" id="work_stage">
+                            <option value="" disabled selected hidden>Укажите стаж работы</option>
+                            <option label="Менее 3-ех месяцев" value="Менее 3-ех месяцев">Менее 3-х месяцев</option>
+                            <option label="Менее 6-ти месяцев" value="Менее 6-ти месяцев">Менее 6-ти месяцев</option>
+                            <option label="Менее года" value="Менее года">Менее года</option>
+                            <option label="Более года" value="Более года">Более года</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="company_name" class="form_label_block">Название компании *</label>
+                        <input name="company_name" type="text" class="form_input_block" id="company_name" placeholder="Название компании"
+                               data-hint="Напишите название компании, в которой вы работаете.">
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="work_phone" class="form_label_block">Рабочий телефон *</label>
+                        <input name="w_phone" type="text" class="form_input_block" id="work_phone" placeholder="7(000)0000000"
+                               data-hint="Напишите, номер телефона компании, в которой вы работаете.">
+                    </div>
+                </div>
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="work_region" class="form_label_block">Регион места работы *</label>
+                        <select name="w_region" class="form_input_block" data-hint="" id="work_region">
+                            <option value="" disabled selected hidden>Выберите регион</option>
+                            <option label="Алтайский край" value="Алтайский край">Алтайский край</option>
+                            <option label="Амурская область" value="Амурская область">Амурская область</option>
+                            <option label="Архангельская область" value="Архангельская область">Архангельская область
+                            </option>
+                            <option label="Астраханская область" value="Астраханская область">Астраханская область</option>
+                            <option label="Белгородская область" value="Белгородская область">Белгородская область</option>
+                            <option label="Брянская область" value="Брянская область">Брянская область</option>
+                            <option label="Владимирская область" value="Владимирская область">Владимирская область</option>
+                            <option label="Волгоградская область" value="Волгоградская область">Волгоградская область
+                            </option>
+                            <option label="Вологодская область" value="Вологодская область">Вологодская область</option>
+                            <option label="Воронежская область" value="Воронежская область">Воронежская область</option>
+                            <option label="Еврейская автономная область" value="Еврейская автономная область">Еврейская
+                                автономная область
+                            </option>
+                            <option label="Забайкальский край" value="Забайкальский край">Забайкальский край</option>
+                            <option label="Ивановская область" value="Ивановская область">Ивановская область</option>
+                            <option label="Иркутская область" value="Иркутская область">Иркутская область</option>
+                            <option label="Калининградская область" value="Калининградская область">Калининградская
+                                область
+                            </option>
+                            <option label="Калужская область" value="Калужская область">Калужская область</option>
+                            <option label="Камчатский край" value="Камчатский край">Камчатский край</option>
+                            <option label="Кемеровская область" value="Кемеровская область">Кемеровская область</option>
+                            <option label="Кировская область" value="Кировская область">Кировская область</option>
+                            <option label="Костромская область" value="Костромская область">Костромская область</option>
+                            <option label="Краснодарский край" value="Краснодарский край">Краснодарский край</option>
+                            <option label="Красноярский край" value="Красноярский край">Красноярский край</option>
+                            <option label="Крым" value="Крым">Крым</option>
+                            <option label="Курганская область" value="Курганская область">Курганская область</option>
+                            <option label="Курская область" value="Курская область">Курская область</option>
+                            <option label="Ленинградская область" value="Ленинградская область">Ленинградская область
+                            </option>
+                            <option label="Липецкая область" value="Липецкая область">Липецкая область</option>
+                            <option label="Магаданская область" value="Магаданская область">Магаданская область</option>
+                            <option label="Москва" value="Москва">Москва</option>
+                            <option label="Московская область" value="Московская область">Московская область</option>
+                            <option label="Мурманская область" value="Мурманская область">Мурманская область</option>
+                            <option label="Ненецкий автономный округ" value="Ненецкий автономный округ">Ненецкий автономный
+                                округ
+                            </option>
+                            <option label="Нижегородская область" value="Нижегородская область">Нижегородская область
+                            </option>
+                            <option label="Новгородская область" value="Новгородская область">Новгородская область</option>
+                            <option label="Новосибирская область" value="Новосибирская область">Новосибирская область
+                            </option>
+                            <option label="Омская область" value="Омская область">Омская область</option>
+                            <option label="Оренбургская область" value="Оренбургская область">Оренбургская область</option>
+                            <option label="Орловская область" value="Орловская область">Орловская область</option>
+                            <option label="Пензенская область" value="Пензенская область">Пензенская область</option>
+                            <option label="Пермский край" value="Пермский край">Пермский край</option>
+                            <option label="Приморский край" value="Приморский край">Приморский край</option>
+                            <option label="Псковская область" value="Псковская область">Псковская область</option>
+                            <option label="Республика Адыгея" value="Республика Адыгея">Республика Адыгея</option>
+                            <option label="Республика Алтай" value="Республика Алтай">Республика Алтай</option>
+                            <option label="Республика Башкортостан" value="Республика Башкортостан">Республика
+                                Башкортостан
+                            </option>
+                            <option label="Республика Бурятия" value="Республика Бурятия">Республика Бурятия</option>
+                            <option label="Республика Дагестан" value="Республика Дагестан">Республика Дагестан</option>
+                            <option label="Республика Ингушетия" value="Республика Ингушетия">Республика Ингушетия</option>
+                            <option label="Республика Кабардино-Балкария" value="Республика Кабардино-Балкария">Республика
+                                Кабардино-Балкария
+                            </option>
+                            <option label="Республика Калмыкия" value="Республика Калмыкия">Республика Калмыкия</option>
+                            <option label="Республика Карачаево-Черкессия" value="Республика Карачаево-Черкессия">Республика
+                                Карачаево-Черкессия
+                            </option>
+                            <option label="Республика Карелия" value="Республика Карелия">Республика Карелия</option>
+                            <option label="Республика Коми" value="Республика Коми">Республика Коми</option>
+                            <option label="Республика Марий Эл" value="Республика Марий Эл">Республика Марий Эл</option>
+                            <option label="Республика Мордовия" value="Республика Мордовия">Республика Мордовия</option>
+                            <option label="Республика Саха (Якутия)" value="Республика Саха (Якутия)">Республика Саха
+                                (Якутия)
+                            </option>
+                            <option label="Республика Северная Осетия (Алания)" value="Республика Северная Осетия (Алания)">
+                                Республика Северная Осетия (Алания)
+                            </option>
+                            <option label="Республика Татарстан" value="Республика Татарстан">Республика Татарстан</option>
+                            <option label="Республика Тыва (Тува)" value="Республика Тыва (Тува)">Республика Тыва (Тува)
+                            </option>
+                            <option label="Республика Удмуртия" value="Республика Удмуртия">Республика Удмуртия</option>
+                            <option label="Республика Хакасия" value="Республика Хакасия">Республика Хакасия</option>
+                            <option label="Республика Чечня" value="Республика Чечня">Республика Чечня</option>
+                            <option label="Республика Чувашия" value="Республика Чувашия">Республика Чувашия</option>
+                            <option label="Ростовская область" value="Ростовская область">Ростовская область</option>
+                            <option label="Рязанская область" value="Рязанская область">Рязанская область</option>
+                            <option label="Самарская область" value="Самарская область">Самарская область</option>
+                            <option label="Санкт-Петербург" value="Санкт-Петербург">Санкт-Петербург</option>
+                            <option label="Саратовская область" value="Саратовская область">Саратовская область</option>
+                            <option label="Сахалинская область" value="Сахалинская область">Сахалинская область</option>
+                            <option label="Свердловская область" value="Свердловская область">Свердловская область</option>
+                            <option label="Смоленская область" value="Смоленская область">Смоленская область</option>
+                            <option label="Ставропольский край" value="Ставропольский край">Ставропольский край</option>
+                            <option label="Тамбовская область" value="Тамбовская область">Тамбовская область</option>
+                            <option label="Тверская область" value="Тверская область">Тверская область</option>
+                            <option label="Томская область" value="Томская область">Томская область</option>
+                            <option label="Тульская область" value="Тульская область">Тульская область</option>
+                            <option label="Тюменская область" value="Тюменская область">Тюменская область</option>
+                            <option label="Ульяновская область" value="Ульяновская область">Ульяновская область</option>
+                            <option label="Хабаровский край" value="Хабаровский край">Хабаровский край</option>
+                            <option label="Ханты-Мансийский автономный округ" value="Ханты-Мансийский автономный округ">
+                                Ханты-Мансийский автономный округ
+                            </option>
+                            <option label="Челябинская область" value="Челябинская область">Челябинская область</option>
+                            <option label="Чукотский автономный округ" value="Чукотский автономный округ">Чукотский
+                                автономный округ
+                            </option>
+                            <option label="Ямало-Ненецкий автономный округ" value="Ямало-Ненецкий автономный округ">
+                                Ямало-Ненецкий автономный округ
+                            </option>
+                            <option label="Ярославская область" value="Ярославская область">Ярославская область</option>
+                        </select>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="work_city" class="form_label_block">Город места работы *</label>
+                        <input name="w_city" type="text" class="form_input_block" id="work_city" placeholder="Например: Москва"
+                               data-hint="Город должен быть написан русскими буквами.">
+                    </div>
+                </div>
+                <div class="form_cell_6">
+                    <div class="form_line">
+                        <div class="form_cell_8">
+                            <div class="form_block">
+                                <label for="work_street" class="form_label_block">Улица и дом *</label>
+                                <input name="w_street" type="text" class="form_input_block" id="work_street" placeholder="Улица"
+                                       data-hint="Улица должна быть написана русскими буквами.">
+                            </div>
+                        </div>
+                        <div class="form_cell_4">
+                            <div class="form_block">
+                                <label for="work_house" class="form_label_block label_empty">&nbsp;</label>
+                                <input name="w_house_col" type="text" class="form_input_block" id="work_house" placeholder="23"
+                                       data-hint="Пожалуйста, введите номер дома.">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="form_section_head">Дополнительное контактное лицо (поручитель)</div>
+
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="surety_name" class="form_label_block">ФИО</label>
+                        <input name="add_pers" type="text" class="form_input_block" id="surety_name" placeholder="Иванов Иван Иванович"
+                               data-hint="Фамилия, Имя и Отчество должны быть написаны русскими буквами.">
+                    </div>
+                </div>
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="surety_phone" class="form_label_block">Телефон</label>
+                        <input name="add_pers_phone" type="text" class="form_input_block" id="surety_phone" placeholder="7(000)0000000"
+                               data-hint="Напишите, номер телефона поручителя.">
+                    </div>
+                </div>
+            </div>
+
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="surety_status" class="form_label_block">Кем вам приходится?</label>
+                        <input name="add_pers_who" type="text" class="form_input_block" id="surety_status" placeholder="Например: брат"
+                               data-hint="Напишите русскими буквами, кем вам приходится поручитель.">
+                    </div>
+                </div>
+            </div>
+
+            <div class="form_section_head">Дополнительный документ</div>
+
+            <div class="form_line">
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="add_doc" class="form_label_block">Тип документа *</label>
+                        <select name="d_type" class="form_input_block" data-hint="" id="add_doc">
+                            <option label="" value="" disabled selected>Укажите тип документа</option>
+                            <option label="Водительское удостоверение" value="Водительское удостоверение">Водительское удостоверение</option>
+                            <option label="Заграничный паспорт" value="Заграничный паспорт">Заграничный паспорт</option>
+                            <option label="Военный билет" value="Военный билет">Военный билет</option>
+                            <option label="СНИЛС" value="СНИЛС">СНИЛС</option>
+                            <option label="ИНН" value="ИНН">ИНН</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form_cell_6">
+                    <div class="form_block">
+                        <label for="add_doc_number" class="form_label_block">Номер документа *</label>
+                        <input name="n_doc" type="text" class="form_input_block" id="add_doc_number" placeholder="В зависимости от документа"
+                               data-hint="Пожалуйста, укажите номер дополнительного документа.">
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="form_block centered">
+                <button id="to_step_5" type="submit" class="btn btn_gold">Далее &rarr;</button>
+            </div>
+        </div>
+    </form>
+</div><!-- //step -->
+                    <div class="step" data-step="5" style="display: none;">
+    <div class="form_head">
+        <div class="form_header">ВАША ЗАЯВКА ПРИНЯТА!</div>
+        <div class="form_subheader">В ближайшее время с Вами свяжется наш менеджер <span class="form_subheader_mark">для обсуждения деталей Вашего кредита.</span>
+        </div>
+    </div>
+    <div class="form_body">
+        <div class="success_block">
+            <!-- <div class="success_block_title">Благодарим Вас за доверие и интерес к нашей кредитной системе.
+            </div> -->
+            <i class="success_sign">
+                &#10003;
+            </i>
+            <div class="success_block_subtitle">
+                По результатам рассмотрения ваших данных наши партнеры также готовы выдать вам дополнительный займ без посещения офиса.
+            </div>
+        </div>
+        <ul class="feeds">
+                            <li class="feeds_item">
+    <div class="feeds_item_row">
+        <div class="feeds_item_col">
+            <img src="/logos/92-15.jpg" alt="" class="partners_img">
+        </div>
+        <div class="feeds_item_col">
+            <div class="feeds_item_th amount_range receive_methods_range" receive_methods_range="Карта / Перевод" amount_range="3000-50000">сумма <span class="hide_600">займа / <br> способ получения</span></div>
+            <span class="amount-human">100 000 Руб</span><br><span class="hide_600">Карта / Перевод</span>
+        </div>
+        <div class="feeds_item_col percentage" percentage="0.27">
+            <div class="feeds_item_th"><span class="hide_600">процентная</span> <br> ставка</div>
+            0.27% <br>в день
+        </div>
+        <div class="feeds_item_col processing_time period_range" processing_time="1"
+             period_range="3-30">
+            <div class="feeds_item_th">Время<br /> рассмотрения</div>
+            
+            1<br>минута
+        </div>
+        <div class="feeds_item_col">
+            <a href="https://cpa.leadia.ru/api/click/mig_credit?utm_source=https%3A%2F%2Fcreditkarm.ru%2Fform&amp;utm_medium=affiliate&amp;utm_campaign=creditkarm.ru&amp;aff_id=10863&amp;aff_sub=default" class="partner_link" target="_blank" yandex-goal="partner_migcredit">
+                Получить
+            </a>
+        </div>
+    </div>
+    <div class="feeds_item_collapse">
+        <div title=""
+                 class="partners_hint"><ul>
+<li>Займы до 100 000 со скидкой 30%</li>
+<li>Сумма от 3 000 до 100 000 руб.</li>
+<li>На срок от 3 до 48 недель</li>
+<li>Процентная ставка от 0,27% до 1,84% в день</li>
+<li>Возраст от 21 лет</li>
+<li>Выдача займа: банковская карта, банковский счет, система CONTACT, система ЮНИСТРИМ, система ЛИДЕР </li>
+<li>Нужна справка о доходах</li>
+<li>Возможна отсрочка</li>
+</ul></div>
+        <div align="center">
+            <a href="https://cpa.leadia.ru/api/click/mig_credit?utm_source=https%3A%2F%2Fcreditkarm.ru%2Fform&amp;utm_medium=affiliate&amp;utm_campaign=creditkarm.ru&amp;aff_id=10863&amp;aff_sub=default" class="partner_link show_450" target="_blank" yandex-goal="partner_migcredit">Получить</a>
+        </div>
+    </div>
+    <div class="feeds_item_toggle">
+        <div class="feeds_circle"></div>
+    </div>
+    
+        
+            
+                 
+        
+    
+</li>
+                            <li class="feeds_item">
+    <div class="feeds_item_row">
+        <div class="feeds_item_col">
+            <img src="/logos/83-4.jpg" alt="" class="partners_img">
+        </div>
+        <div class="feeds_item_col">
+            <div class="feeds_item_th amount_range receive_methods_range" receive_methods_range="Карта / Кошелек" amount_range="1000-30000">сумма <span class="hide_600">займа / <br> способ получения</span></div>
+            <span class="amount-human">30 000 Руб</span><br><span class="hide_600">Карта / Кошелек</span>
+        </div>
+        <div class="feeds_item_col percentage" percentage="1.6">
+            <div class="feeds_item_th"><span class="hide_600">процентная</span> <br> ставка</div>
+            1.6%<br> в день
+        </div>
+        <div class="feeds_item_col processing_time period_range" processing_time="3"
+             period_range="1-30">
+            <div class="feeds_item_th">Время<br /> рассмотрения</div>
+            
+            3<br>минуты
+        </div>
+        <div class="feeds_item_col">
+            <a href="https://cpa.leadia.ru/api/click/vivus?utm_source=https%3A%2F%2Fcreditkarm.ru%2Fform&amp;utm_medium=affiliate&amp;utm_campaign=creditkarm.ru&amp;aff_id=10863&amp;aff_sub=default" class="partner_link" target="_blank" yandex-goal="partner_vivus">
+                Получить
+            </a>
+        </div>
+    </div>
+    <div class="feeds_item_collapse">
+        <div title=""
+                 class="partners_hint"><ul>
+<li>Минимальная процентная ставка 1,1%</li>
+<li>Сумма от 1 000 до 30 000 руб.</li>
+<li>На срок от 1 до 30 дней</li>
+<li>Процентная ставка от 1,6% в день</li>
+<li>Возраст от 18 лет</li>
+<li>Выдача займа: банковская карта, Qiwi, Яндекс.Деньги, система CONTACT, система ЛИДЕР , банковский перевод</li>
+<li>Нужен только паспорт</li>
+<li>Возможна отсрочка</li>
+</ul></div>
+        <div align="center">
+            <a href="https://cpa.leadia.ru/api/click/vivus?utm_source=https%3A%2F%2Fcreditkarm.ru%2Fform&amp;utm_medium=affiliate&amp;utm_campaign=creditkarm.ru&amp;aff_id=10863&amp;aff_sub=default" class="partner_link show_450" target="_blank" yandex-goal="partner_vivus">Получить</a>
+        </div>
+    </div>
+    <div class="feeds_item_toggle">
+        <div class="feeds_circle"></div>
+    </div>
+    
+        
+            
+                 
+        
+    
+</li>
+                    </ul><br>
+        <div class="view_full_vitrine">
+            <a href="https://creditkarm.ru/all" class="btn btn_gold view_full_link" id="shop_front" target="_blank">Посмотреть все предложения</a>
+        </div>
+    </div>
+</div>
+<!-- //step -->
+
+                    <div class="step" data-step="3" style="display: none" data-step-strategy="consumer">
+	<form id="step_3_consumer" class="form_step">
+		<div class="form_head">
+			<div class="form_header">ВАША ЗАЯВКА ПРИНЯТА.</div>
+			<div class="form_subheader">Оставьте паспортные данные - <span class="form_subheader_mark">ускорьте получение денег!</span>
+			</div>
+		</div>
+		<div class="form_body">
+
+			<div class="form_section_head">ПАСПОРТНЫЕ ДАННЫЕ</div>
+
+			<div class="form_line">
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="pass_serial" class="form_label_block">Серия паспорта *</label>
+						<input name="consumer_pas_s" type="text" class="form_input_block" id="pass_serial" placeholder="0000"
+							   data-hint="Пожалуйста, введите серию паспорта (4 цифры).">
+					</div>
+				</div>
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="pass_num" class="form_label_block">Номер паспорта *</label>
+						<input name="consumer_pas_n" type="text" class="form_input_block" id="pass_num" placeholder="000000"
+							   data-hint="Пожалуйста, введите номер паспорта (6 цифр).">
+					</div>
+				</div>
+			</div>
+			<div class="form_line">
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="pass_issued" class="form_label_block">Паспорт выдан *</label>
+						<input name="consumer_pas_p" type="text" class="form_input_block" id="pass_issued" placeholder="Организация выдавшая паспорт"
+							   data-hint="Пожалуйста, введите наименование органа, точно как в Вашем паспорте (русскими буквами).">
+					</div>
+				</div>
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label class="form_label_block">Дата выдачи паспорта *</label>
+						<div class="form_line">
+							<div class="form_cell_4">
+								<div class="form_block">
+									<select name="consumer_pas_d_day" class="form_input_block" data-hint="" title="Число">
+										<option value="" disabled="" selected="" hidden="">Число</option>
+										<option value="01">1</option>
+										<option value="02">2</option>
+										<option value="03">3</option>
+										<option value="04">4</option>
+										<option value="05">5</option>
+										<option value="06">6</option>
+										<option value="07">7</option>
+										<option value="08">8</option>
+										<option value="09">9</option>
+										<option value="10">10</option>
+										<option value="11">11</option>
+										<option value="12">12</option>
+										<option value="13">13</option>
+										<option value="14">14</option>
+										<option value="15">15</option>
+										<option value="16">16</option>
+										<option value="17">17</option>
+										<option value="18">18</option>
+										<option value="19">19</option>
+										<option value="20">20</option>
+										<option value="21">21</option>
+										<option value="22">22</option>
+										<option value="23">23</option>
+										<option value="24">24</option>
+										<option value="25">25</option>
+										<option value="26">26</option>
+										<option value="27">27</option>
+										<option value="28">28</option>
+										<option value="29">29</option>
+										<option value="30">30</option>
+										<option value="31">31</option>
+									</select>
+								</div>
+							</div>
+							<div class="form_cell_4">
+								<div class="form_block">
+									<select name="consumer_pas_d_month" class="form_input_block" data-hint="" title="Месяц">
+										<option value="" disabled="" selected="" hidden="">Месяц</option>
+										<option value="01">Январь</option>
+										<option value="02">Февраль</option>
+										<option value="03">Март</option>
+										<option value="04">Апрель</option>
+										<option value="05">Май</option>
+										<option value="06">Июнь</option>
+										<option value="07">Июль</option>
+										<option value="08">Август</option>
+										<option value="09">Сентябрь</option>
+										<option value="10">Октябрь</option>
+										<option value="11">Ноябрь</option>
+										<option value="12">Декабрь</option>
+									</select>
+								</div>
+							</div>
+							<div class="form_cell_4">
+								<div class="form_block">
+									<select name="consumer_pas_d_year" class="form_input_block" data-hint="" title="Год">
+										<option value="" disabled="" selected="" hidden="">Год</option>
+										<option value="2016">2016</option>
+										<option value="2015">2015</option>
+										<option value="2014">2014</option>
+										<option value="2013">2013</option>
+										<option value="2012">2012</option>
+										<option value="2011">2011</option>
+										<option value="2010">2010</option>
+										<option value="2009">2009</option>
+										<option value="2008">2008</option>
+										<option value="2007">2007</option>
+										<option value="2006">2006</option>
+										<option value="2005">2005</option>
+										<option value="2004">2004</option>
+										<option value="2003">2003</option>
+										<option value="2002">2002</option>
+										<option value="2001">2001</option>
+										<option value="2000">2000</option>
+										<option value="1999">1999</option>
+										<option value="1998">1998</option>
+										<option value="1997">1997</option>
+										<option value="1996">1996</option>
+										<option value="1995">1995</option>
+										<option value="1994">1994</option>
+										<option value="1993">1993</option>
+										<option value="1992">1992</option>
+										<option value="1991">1991</option>
+										<option value="1990">1990</option>
+										<option value="1989">1989</option>
+										<option value="1988">1988</option>
+										<option value="1987">1987</option>
+										<option value="1986">1986</option>
+										<option value="1985">1985</option>
+										<option value="1984">1984</option>
+										<option value="1983">1983</option>
+										<option value="1982">1982</option>
+										<option value="1981">1981</option>
+										<option value="1980">1980</option>
+										<option value="1979">1979</option>
+										<option value="1978">1978</option>
+										<option value="1977">1977</option>
+										<option value="1976">1976</option>
+										<option value="1975">1975</option>
+										<option value="1974">1974</option>
+										<option value="1973">1973</option>
+										<option value="1972">1972</option>
+										<option value="1971">1971</option>
+										<option value="1970">1970</option>
+										<option value="1969">1969</option>
+										<option value="1968">1968</option>
+										<option value="1967">1967</option>
+										<option value="1966">1966</option>
+										<option value="1965">1965</option>
+										<option value="1964">1964</option>
+										<option value="1963">1963</option>
+										<option value="1962">1962</option>
+										<option value="1961">1961</option>
+										<option value="1960">1960</option>
+										<option value="1959">1959</option>
+										<option value="1958">1958</option>
+										<option value="1957">1957</option>
+										<option value="1956">1956</option>
+										<option value="1955">1955</option>
+										<option value="1954">1954</option>
+										<option value="1953">1953</option>
+										<option value="1952">1952</option>
+										<option value="1951">1951</option>
+										<option value="1950">1950</option>
+										<option value="1949">1949</option>
+										<option value="1948">1948</option>
+										<option value="1947">1947</option>
+										<option value="1946">1946</option>
+										<option value="1945">1945</option>
+										<option value="1944">1944</option>
+										<option value="1943">1943</option>
+										<option value="1942">1942</option>
+										<option value="1941">1941</option>
+									</select>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="form_line">
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="department_code" class="form_label_block">Код подразделения *</label>
+						<input name="consumer_pas_c" type="text" class="form_input_block" id="department_code" placeholder="000-000"
+							   data-hint="<img src='http://static.leadia.ru/forms/paydayru/p_code.jpg' style='max-width: 200px;width: 100%; height: auto;'>">
+					</div>
+				</div>
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="place_birth" class="form_label_block">Место рождения *</label>
+						<input name="consumer_birth_place" type="text" class="form_input_block" id="place_birth" placeholder="Например: Москва"
+							   data-hint="Пожалуйста, введите наименование города или населенного пункта, в котором вы родились.">
+					</div>
+				</div>
+			</div>
+
+			<div class="form_section_head">МЕСТО ПРОПИСКИ</div>
+
+
+			<div class="form_line">
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="reg_area" class="form_label_block">Регион прописки *</label>
+						<select name="consumer_region_r" class="form_input_block" data-hint="" id="reg_area">
+							<option value="" disabled selected hidden>Выберите регион</option>
+							<option label="Алтайский край" value="Алтайский край">Алтайский край</option>
+							<option label="Амурская область" value="Амурская область">Амурская область</option>
+							<option label="Архангельская область" value="Архангельская область">Архангельская область
+							</option>
+							<option label="Астраханская область" value="Астраханская область">Астраханская область</option>
+							<option label="Белгородская область" value="Белгородская область">Белгородская область</option>
+							<option label="Брянская область" value="Брянская область">Брянская область</option>
+							<option label="Владимирская область" value="Владимирская область">Владимирская область</option>
+							<option label="Волгоградская область" value="Волгоградская область">Волгоградская область
+							</option>
+							<option label="Вологодская область" value="Вологодская область">Вологодская область</option>
+							<option label="Воронежская область" value="Воронежская область">Воронежская область</option>
+							<option label="Еврейская автономная область" value="Еврейская автономная область">Еврейская
+								автономная область
+							</option>
+							<option label="Забайкальский край" value="Забайкальский край">Забайкальский край</option>
+							<option label="Ивановская область" value="Ивановская область">Ивановская область</option>
+							<option label="Иркутская область" value="Иркутская область">Иркутская область</option>
+							<option label="Калининградская область" value="Калининградская область">Калининградская
+								область
+							</option>
+							<option label="Калужская область" value="Калужская область">Калужская область</option>
+							<option label="Камчатский край" value="Камчатский край">Камчатский край</option>
+							<option label="Кемеровская область" value="Кемеровская область">Кемеровская область</option>
+							<option label="Кировская область" value="Кировская область">Кировская область</option>
+							<option label="Костромская область" value="Костромская область">Костромская область</option>
+							<option label="Краснодарский край" value="Краснодарский край">Краснодарский край</option>
+							<option label="Красноярский край" value="Красноярский край">Красноярский край</option>
+							<option label="Крым" value="Крым">Крым</option>
+							<option label="Курганская область" value="Курганская область">Курганская область</option>
+							<option label="Курская область" value="Курская область">Курская область</option>
+							<option label="Ленинградская область" value="Ленинградская область">Ленинградская область
+							</option>
+							<option label="Липецкая область" value="Липецкая область">Липецкая область</option>
+							<option label="Магаданская область" value="Магаданская область">Магаданская область</option>
+							<option label="Москва" value="Москва">Москва</option>
+							<option label="Московская область" value="Московская область">Московская область</option>
+							<option label="Мурманская область" value="Мурманская область">Мурманская область</option>
+							<option label="Ненецкий автономный округ" value="Ненецкий автономный округ">Ненецкий автономный
+								округ
+							</option>
+							<option label="Нижегородская область" value="Нижегородская область">Нижегородская область
+							</option>
+							<option label="Новгородская область" value="Новгородская область">Новгородская область</option>
+							<option label="Новосибирская область" value="Новосибирская область">Новосибирская область
+							</option>
+							<option label="Омская область" value="Омская область">Омская область</option>
+							<option label="Оренбургская область" value="Оренбургская область">Оренбургская область</option>
+							<option label="Орловская область" value="Орловская область">Орловская область</option>
+							<option label="Пензенская область" value="Пензенская область">Пензенская область</option>
+							<option label="Пермский край" value="Пермский край">Пермский край</option>
+							<option label="Приморский край" value="Приморский край">Приморский край</option>
+							<option label="Псковская область" value="Псковская область">Псковская область</option>
+							<option label="Республика Адыгея" value="Республика Адыгея">Республика Адыгея</option>
+							<option label="Республика Алтай" value="Республика Алтай">Республика Алтай</option>
+							<option label="Республика Башкортостан" value="Республика Башкортостан">Республика
+								Башкортостан
+							</option>
+							<option label="Республика Бурятия" value="Республика Бурятия">Республика Бурятия</option>
+							<option label="Республика Дагестан" value="Республика Дагестан">Республика Дагестан</option>
+							<option label="Республика Ингушетия" value="Республика Ингушетия">Республика Ингушетия</option>
+							<option label="Республика Кабардино-Балкария" value="Республика Кабардино-Балкария">Республика
+								Кабардино-Балкария
+							</option>
+							<option label="Республика Калмыкия" value="Республика Калмыкия">Республика Калмыкия</option>
+							<option label="Республика Карачаево-Черкессия" value="Республика Карачаево-Черкессия">Республика
+								Карачаево-Черкессия
+							</option>
+							<option label="Республика Карелия" value="Республика Карелия">Республика Карелия</option>
+							<option label="Республика Коми" value="Республика Коми">Республика Коми</option>
+							<option label="Республика Марий Эл" value="Республика Марий Эл">Республика Марий Эл</option>
+							<option label="Республика Мордовия" value="Республика Мордовия">Республика Мордовия</option>
+							<option label="Республика Саха (Якутия)" value="Республика Саха (Якутия)">Республика Саха
+								(Якутия)
+							</option>
+							<option label="Республика Северная Осетия (Алания)" value="Республика Северная Осетия (Алания)">
+								Республика Северная Осетия (Алания)
+							</option>
+							<option label="Республика Татарстан" value="Республика Татарстан">Республика Татарстан</option>
+							<option label="Республика Тыва (Тува)" value="Республика Тыва (Тува)">Республика Тыва (Тува)
+							</option>
+							<option label="Республика Удмуртия" value="Республика Удмуртия">Республика Удмуртия</option>
+							<option label="Республика Хакасия" value="Республика Хакасия">Республика Хакасия</option>
+							<option label="Республика Чечня" value="Республика Чечня">Республика Чечня</option>
+							<option label="Республика Чувашия" value="Республика Чувашия">Республика Чувашия</option>
+							<option label="Ростовская область" value="Ростовская область">Ростовская область</option>
+							<option label="Рязанская область" value="Рязанская область">Рязанская область</option>
+							<option label="Самарская область" value="Самарская область">Самарская область</option>
+							<option label="Санкт-Петербург" value="Санкт-Петербург">Санкт-Петербург</option>
+							<option label="Саратовская область" value="Саратовская область">Саратовская область</option>
+							<option label="Сахалинская область" value="Сахалинская область">Сахалинская область</option>
+							<option label="Свердловская область" value="Свердловская область">Свердловская область</option>
+							<option label="Смоленская область" value="Смоленская область">Смоленская область</option>
+							<option label="Ставропольский край" value="Ставропольский край">Ставропольский край</option>
+							<option label="Тамбовская область" value="Тамбовская область">Тамбовская область</option>
+							<option label="Тверская область" value="Тверская область">Тверская область</option>
+							<option label="Томская область" value="Томская область">Томская область</option>
+							<option label="Тульская область" value="Тульская область">Тульская область</option>
+							<option label="Тюменская область" value="Тюменская область">Тюменская область</option>
+							<option label="Ульяновская область" value="Ульяновская область">Ульяновская область</option>
+							<option label="Хабаровский край" value="Хабаровский край">Хабаровский край</option>
+							<option label="Ханты-Мансийский автономный округ" value="Ханты-Мансийский автономный округ">
+								Ханты-Мансийский автономный округ
+							</option>
+							<option label="Челябинская область" value="Челябинская область">Челябинская область</option>
+							<option label="Чукотский автономный округ" value="Чукотский автономный округ">Чукотский
+								автономный округ
+							</option>
+							<option label="Ямало-Ненецкий автономный округ" value="Ямало-Ненецкий автономный округ">
+								Ямало-Ненецкий автономный округ
+							</option>
+							<option label="Ярославская область" value="Ярославская область">Ярославская область</option>
+						</select>
+					</div>
+				</div>
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="reg_type" class="form_label_block">Тип регистрации *</label>
+						<select name="consumer_reg_type" class="form_input_block" data-hint="" id="reg_type">
+							<option value="" disabled selected hidden>Выберите тип регистрации</option>
+							<option label="Постоянная регистрация" value="Постоянная регистрация">Постоянная регистрация</option>
+							<option label="Временная регистрация" value="Временная регистрация">Временная регистрация</option>
+						</select>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="form_line">
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="reg_city" class="form_label_block">Город прописки *</label>
+						<input name="consumer_city_r" type="text" class="form_input_block" id="reg_city" placeholder="Например: Москва"
+							   data-hint="Город должен быть написан русскими буквами">
+					</div>
+				</div>
+				<div class="form_cell_6">
+
+
+					<div class="form_line">
+						<div class="form_cell_8">
+							<div class="form_block">
+								<label for="reg_street" class="form_label_block">Улица и дом прописки *</label>
+								<input name="consumer_street_r" type="text" class="form_input_block" id="reg_street" placeholder="Улица"
+									   data-hint="Улица должна быть написана русскими буквами.">
+							</div>
+						</div>
+						<div class="form_cell_4">
+							<div class="form_block">
+								<label for="reg_house" class="form_label_block label_empty">&nbsp;</label>
+								<input name="consumer_house_r" type="text" class="form_input_block" id="reg_house" placeholder="23"
+									   data-hint="Введите номер дома.">
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+
+			<div class="form_block centered">
+				<div class="radio_head">
+					<b>Место проживания совпадает с местом прописки?</b>
+				</div>
+				<div class="radio_block">
+					<input type="radio" name="consumer_registration_place_equal" id="q1" value="1" class="form_radio" checked>
+					<label for="q1">Да</label>
+				</div>
+				<div class="radio_block">
+					<input type="radio" name="consumer_registration_place_equal" id="q2" value="0" class="form_radio">
+					<label for="q2">Нет</label>
+				</div>
+			</div>
+
+
+			<div id="consumer_registration_place" class="form_line">
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="cur_city" class="form_label_block">Город проживания *</label>
+						<input name="consumer_add_city" type="text" class="form_input_block" id="cur_city" placeholder="Например: Москва"
+							   data-hint="Город должен быть написан русскими буквами" disabled>
+					</div>
+				</div>
+				<div class="form_cell_6">
+
+
+					<div class="form_line">
+						<div class="form_cell_8">
+							<div class="form_block">
+								<label for="cur_street" class="form_label_block">Улица и дом проживания *</label>
+								<input name="consumer_add_street" type="text" class="form_input_block" id="cur_street" placeholder="Улица"
+									   data-hint="Улица должна быть написана русскими буквами." disabled>
+							</div>
+						</div>
+						<div class="form_cell_4">
+							<div class="form_block">
+								<label for="cur_house" class="form_label_block label_empty">&nbsp;</label>
+								<input name="consumer_add_house" type="text" class="form_input_block" id="cur_house" placeholder="23"
+									   data-hint="Введите номер дома." disabled>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+
+
+			<div class="form_block centered">
+				<button id="consumer_to_step_4" type="submit" class="btn btn_gold">Далее &rarr;</button>
+			</div>
+
+
+		</div>
+	</form>
+</div><!-- //step -->
+
+                    <div class="step" data-step="4" style="display: none" data-step-strategy="consumer">
+	<form id="step_4_consumer" class="form_step">
+		<div class="form_head">
+			<div class="form_header">ВАША ЗАЯВКА РАССМОТРЕНА.</div>
+			<div class="form_subheader">Оставьте дополнительную информацию - <span class="form_subheader_mark">получите выгодный займ!</span>
+			</div>
+		</div>
+		<div class="form_body">
+			<div class="form_section_head">ДАННЫЕ О ДОХОДЕ И РАБОТЕ</div>
+
+			<div class="form_line">
+				<div class="form_cell_6">
+
+					<div class="form_block">
+						<label for="job_type" class="form_label_block">Форма трудоустройства *</label>
+						<select name="consumer_employee" class="form_input_block" data-hint="" id="job_type">
+							<option value="" disabled selected hidden>Выберите форму трудоустройства</option>
+							<option value="По трудовому договору">По трудовому договору</option>
+							<option value="Владелец бизнеса">Владелец бизнеса</option>
+							<option value="ИП (ИЧП, ПБОЮЛ)">ИП (ИЧП, ПБОЮЛ)</option>
+							<option value="Постоянная работа по договору найма">Постоянная работа по договору найма</option>
+							<option value="Государственный служащий">Государственный служащий</option>
+							<option value="Не трудоустроен">Не трудоустроен</option>
+							<option value="Учусь">Учусь</option>
+							<option value="Пенсионер">Пенсионер</option>
+							<option value="Иной источник постоянного дохода">Иной источник постоянного дохода</option>
+						</select>
+					</div>
+				</div>
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="work_years" class="form_label_block">Общий трудовой стаж *</label>
+						<select name="consumer_stage" class="form_input_block" data-hint="" id="work_years">
+							<option value="" disabled selected hidden>Укажите стаж работы</option>
+							<option label="Менее 3-х месяцев" value="Менее 3-х месяцев">Менее 3-х месяцев</option>
+							<option label="Менее 6-ти месяцев" value="Менее 6-ти месяцев">Менее 6-ти месяцев</option>
+							<option label="Менее года" value="Менее года">Менее года</option>
+							<option label="Более года" value="Более года">Более года</option>
+						</select>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="form_line">
+				<div class="form_cell_6">
+
+					<div class="form_block">
+						<label for="money_month" class="form_label_block">Месячный заработок *</label>
+
+						<select name="consumer_salary" class="form_input_block" data-hint="" id="money_month">
+							<option value="" disabled selected hidden>Укажите Ваш заработок</option>
+							<option value="5000">5 000 руб</option>
+							<option value="10000">10 000 руб</option>
+							<option value="15000">15 000 руб</option>
+							<option value="20000">20 000 руб</option>
+							<option value="25000">25 000 руб</option>
+							<option value="30000">30 000 руб</option>
+							<option value="35000">35 000 руб</option>
+							<option value="40000">40 000 руб</option>
+							<option value="45000">45 000 руб</option>
+							<option value="50000">50 000 руб</option>
+							<option value="60000">60 000 руб</option>
+							<option value="70000">70 000 руб</option>
+							<option value="80000">80 000 руб</option>
+							<option value="90000">90 000 руб</option>
+							<option value="100000">100 000 руб</option>
+							<option value="110000">110 000 руб</option>
+							<option value="120000">120 000 руб</option>
+							<option value="130000">130 000 руб</option>
+							<option value="140000">140 000 руб</option>
+							<option value="150000">150 000 руб</option>
+							<option value="Более 150 000">Более 150 000 руб</option>
+						</select>
+					</div>
+				</div>
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="money_confirm" class="form_label_block">Подтверждение дохода *</label>
+						<select name="consumer_income_confirmation" class="form_input_block" data-hint="" id="money_confirm">
+							<option value="" disabled selected hidden>Выберите из списка</option>
+							<option label="Справка НДФЛ, налоговая декларация" value="Справка НДФЛ, налоговая декларация">
+								Справка НДФЛ, налоговая декларация
+							</option>
+							<option label="Справка от работодателя" value="Справка от работодателя">Справка от
+								работодателя
+							</option>
+							<!--<option label="Устное или письменное заявление" value="Устное или письменное заявление">Устное или письменное заявление</option>
+							<option label="Справка по форме банка" value="Справка по форме банка">Справка по форме банка</option>-->
+							<option label="Подтверждение по городскому рабочему телефону"
+									value="Подтверждение по городскому рабочему телефону">Подтверждение по городскому
+								рабочему телефону
+							</option>
+							<option label="По трудовому договору" value="По трудовому договору">По трудовому договору
+							</option>
+							<option label="Нет подтверждения дохода" value="Нет подтверждения дохода">Нет подтверждения
+								дохода
+							</option>
+						</select>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="form_line">
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="org_name" class="form_label_block">Название компании *</label>
+						<input name="consumer_company_name" type="text" class="form_input_block" id="org_name" placeholder="Название компании"
+							   data-hint="Напишите название компании, в которой вы работаете">
+					</div>
+				</div>
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="org_phone" class="form_label_block">Рабочий телефон *</label>
+						<input name="consumer_w_phone" type="text" class="form_input_block" id="org_phone" placeholder="7(000)0000000"
+							   data-hint="Напишите, номер телефона компании, в которой вы работаете">
+					</div>
+				</div>
+			</div>
+
+
+			<div class="form_line">
+				<div class="form_cell_6">
+					<div class="form_line">
+						<div class="form_cell_8">
+							<div class="form_block">
+								<label for="org_street" class="form_label_block">Улица и дом *</label>
+								<input name="consumer_w_street" type="text" class="form_input_block" id="org_street" placeholder="Улица"
+									   data-hint="Улица должна быть написана русскими буквами.">
+							</div>
+						</div>
+						<div class="form_cell_4">
+							<div class="form_block">
+								<label for="org_house" class="form_label_block label_empty">&nbsp;</label>
+								<input name="consumer_w_house_col" type="text" class="form_input_block" id="org_house" placeholder="23"
+									   data-hint="Ведите номер дома.">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="form_cell_6">
+					<div class="form_block">
+						<label for="consumer_gage_property" class="form_label_block">Собственность для залога *</label>
+						<select name="consumer_gage_property" class="form_input_block" data-hint="" id="consumer_gage_property">
+							<option value="" disabled selected hidden>Выберите тип собственности</option>
+							<option label="Нет собственности" value="Нет собственности" data-property-type="property_none">Без залога</option>
+							<option label="Недвижимость" value="Недвижимость" data-property-type="property_estate">Недвижимость</option>
+							<option label="Авто" value="Авто" data-property-type="property_auto">Авто</option>
+						</select>
+					</div>
+				</div>
+			</div>
+
+			<div class="propery" id="property_none">
+				<div class="form_section_head">ДОПОЛНИТЕЛЬНОЕ КОНТАКТНОЕ ЛИЦО (ПОРУЧИТЕЛЬ)</div>
+
+
+				<div class="form_line">
+					<div class="form_cell_6">
+						<div class="form_block">
+							<label for="garant_person" class="form_label_block">ФИО *</label>
+							<input name="consumer_add_pers" type="text" class="form_input_block" id="garant_person" placeholder="Иванов Иван Иванович"
+								   data-hint="Фамилия, Имя и Отчество должны быть написаны русскими буквами">
+						</div>
+					</div>
+					<div class="form_cell_6">
+
+						<div class="form_block">
+							<label for="garant_phone" class="form_label_block">Телефон *</label>
+							<input name="consumer_add_pers_phone" type="text" class="form_input_block" id="garant_phone" placeholder="7(000)0000000"
+								   data-hint="Напишите, номер телефона поручителя">
+						</div>
+
+
+					</div>
+				</div>
+
+				<div class="form_line">
+					<div class="form_cell_6">
+						<div class="form_block">
+							<label for="garant_who" class="form_label_block">Кем вам приходится? *</label>
+							<input name="consumer_add_pers_who" type="text" class="form_input_block" id="garant_who" placeholder="Например: брат"
+								   data-hint="Напишите русскими буквами кем вам приходится поручитель">
+						</div>
+					</div>
+
+				</div>
+
+
+				<div class="form_section_head">ДОПОЛНИТЕЛЬНЫЙ ДОКУМЕНТ</div>
+
+				<div class="form_line">
+					<div class="form_cell_6">
+						<div class="form_block">
+							<label for="garant_doc" class="form_label_block">Тип документа *</label>
+							<select name="consumer_d_type" class="form_input_block" data-hint="" id="garant_doc">
+								<option value="" disabled selected hidden>Выберите тип документа</option>
+								<option label="Водительское удостоверение" value="Водительское удостоверение">Водительское
+									удостоверение
+								</option>
+								<option label="Заграничный паспорт" value="Заграничный паспорт">Заграничный паспорт</option>
+								<option label="Военный билет" value="Военный билет">Военный билет</option>
+								<option label="СНИЛС" value="СНИЛС">СНИЛС</option>
+								<option label="ИНН" value="ИНН">ИНН</option>
+							</select>
+
+						</div>
+					</div>
+					<div class="form_cell_6">
+
+						<div class="form_block">
+							<label for="garant_num" class="form_label_block">Номер документа *</label>
+							<input name="consumer_n_doc" type="text" class="form_input_block" id="garant_num"
+								   placeholder="В зависимости от документа"
+								   data-hint="Укажите номер дополнительного документа">
+						</div>
+
+
+					</div>
+				</div>
+			</div>
+
+
+			<div class="property" id="property_estate" style="display: none">
+				<div class="form_section_head">ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ О ЗАЛОГЕ (НЕДВИЖИМОСТИ)</div>
+
+				<div class="form_line">
+					<div class="form_cell_6">
+						<div class="form_block">
+							<label for="garant_estate" class="form_label_block">Тип предмета залога *</label>
+							<select name="consumer_gage_realty_type" class="form_input_block" data-hint="" id="garant_estate">
+								<option value="" disabled selected hidden>Выберите тип недвижимости</option>
+								<option label="Квартира на вторичном рынке" value="Квартира на вторичном рынке">Квартира на
+									вторичном рынке
+								</option>
+								<option label="Квартира на первичном рынке" value="Квартира на первичном рынке">Квартира на
+									первичном рынке
+								</option>
+								<option label="Часть квартиры или комната" value="Часть квартиры или комната">Часть квартиры
+									или комната
+								</option>
+								<option label="Земельный участок" value="Земельный участок">Земельный участок</option>
+								<option label="Земельный участок с жилым домом" value="Земельный участок с жилым домом">
+									Земельный участок с жилым домом
+								</option>
+								<option label="Земельный участок с жилым домом на стадии строительства"
+										value="Земельный участок с жилым домом на стадии строительства">Земельный участок с
+									жилым домом на стадии строительства
+								</option>
+								<option label="Нежилая коммерческая недвижимость" value="Нежилая коммерческая недвижимость">
+									Нежилая коммерческая недвижимость
+								</option>
+								<option label="Нежилая коммерческая недвижимость на стадии строительства"
+										value="Нежилая коммерческая недвижимость на стадии строительства">Нежилая
+									коммерческая недвижимость на стадии строительства
+								</option>
+							</select>
+						</div>
+					</div>
+					<div class="form_cell_6">
+
+						<div class="form_block">
+							<label for="estate_price" class="form_label_block">Оценка стоимости залога *</label>
+							<input name="consumer_gage_realty_cost" type="text" class="form_input_block" id="estate_price"
+								   placeholder="Например: 4 000 000"
+								   data-hint="Напишите сумму, в которую вы оцениваете свою недвижимость">
+						</div>
+
+					</div>
+				</div>
+
+				<div class="form_line">
+					<div class="form_cell_6">
+						<div class="form_block">
+							<label for="estate_place" class="form_label_block">Регион предмета залога *</label>
+							<select name="consumer_gage_realty_region" class="form_input_block" data-hint="" id="estate_place">
+								<option value="" disabled selected hidden>Выберите регион</option>
+								<option label="Алтайский край" value="Алтайский край">Алтайский край</option>
+								<option label="Амурская область" value="Амурская область">Амурская область</option>
+								<option label="Архангельская область" value="Архангельская область">Архангельская область
+								</option>
+								<option label="Астраханская область" value="Астраханская область">Астраханская область
+								</option>
+								<option label="Белгородская область" value="Белгородская область">Белгородская область
+								</option>
+								<option label="Брянская область" value="Брянская область">Брянская область</option>
+								<option label="Владимирская область" value="Владимирская область">Владимирская область
+								</option>
+								<option label="Волгоградская область" value="Волгоградская область">Волгоградская область
+								</option>
+								<option label="Вологодская область" value="Вологодская область">Вологодская область</option>
+								<option label="Воронежская область" value="Воронежская область">Воронежская область</option>
+								<option label="Еврейская автономная область" value="Еврейская автономная область">Еврейская
+									автономная область
+								</option>
+								<option label="Забайкальский край" value="Забайкальский край">Забайкальский край</option>
+								<option label="Ивановская область" value="Ивановская область">Ивановская область</option>
+								<option label="Иркутская область" value="Иркутская область">Иркутская область</option>
+								<option label="Калининградская область" value="Калининградская область">Калининградская
+									область
+								</option>
+								<option label="Калужская область" value="Калужская область">Калужская область</option>
+								<option label="Камчатский край" value="Камчатский край">Камчатский край</option>
+								<option label="Кемеровская область" value="Кемеровская область">Кемеровская область</option>
+								<option label="Кировская область" value="Кировская область">Кировская область</option>
+								<option label="Костромская область" value="Костромская область">Костромская область</option>
+								<option label="Краснодарский край" value="Краснодарский край">Краснодарский край</option>
+								<option label="Красноярский край" value="Красноярский край">Красноярский край</option>
+								<option label="Крым" value="Крым">Крым</option>
+								<option label="Курганская область" value="Курганская область">Курганская область</option>
+								<option label="Курская область" value="Курская область">Курская область</option>
+								<option label="Ленинградская область" value="Ленинградская область">Ленинградская область
+								</option>
+								<option label="Липецкая область" value="Липецкая область">Липецкая область</option>
+								<option label="Магаданская область" value="Магаданская область">Магаданская область</option>
+								<option label="Москва" value="Москва">Москва</option>
+								<option label="Московская область" value="Московская область">Московская область</option>
+								<option label="Мурманская область" value="Мурманская область">Мурманская область</option>
+								<option label="Ненецкий автономный округ" value="Ненецкий автономный округ">Ненецкий
+									автономный
+									округ
+								</option>
+								<option label="Нижегородская область" value="Нижегородская область">Нижегородская область
+								</option>
+								<option label="Новгородская область" value="Новгородская область">Новгородская область
+								</option>
+								<option label="Новосибирская область" value="Новосибирская область">Новосибирская область
+								</option>
+								<option label="Омская область" value="Омская область">Омская область</option>
+								<option label="Оренбургская область" value="Оренбургская область">Оренбургская область
+								</option>
+								<option label="Орловская область" value="Орловская область">Орловская область</option>
+								<option label="Пензенская область" value="Пензенская область">Пензенская область</option>
+								<option label="Пермский край" value="Пермский край">Пермский край</option>
+								<option label="Приморский край" value="Приморский край">Приморский край</option>
+								<option label="Псковская область" value="Псковская область">Псковская область</option>
+								<option label="Республика Адыгея" value="Республика Адыгея">Республика Адыгея</option>
+								<option label="Республика Алтай" value="Республика Алтай">Республика Алтай</option>
+								<option label="Республика Башкортостан" value="Республика Башкортостан">Республика
+									Башкортостан
+								</option>
+								<option label="Республика Бурятия" value="Республика Бурятия">Республика Бурятия</option>
+								<option label="Республика Дагестан" value="Республика Дагестан">Республика Дагестан</option>
+								<option label="Республика Ингушетия" value="Республика Ингушетия">Республика Ингушетия
+								</option>
+								<option label="Республика Кабардино-Балкария" value="Республика Кабардино-Балкария">
+									Республика
+									Кабардино-Балкария
+								</option>
+								<option label="Республика Калмыкия" value="Республика Калмыкия">Республика Калмыкия</option>
+								<option label="Республика Карачаево-Черкессия" value="Республика Карачаево-Черкессия">
+									Республика
+									Карачаево-Черкессия
+								</option>
+								<option label="Республика Карелия" value="Республика Карелия">Республика Карелия</option>
+								<option label="Республика Коми" value="Республика Коми">Республика Коми</option>
+								<option label="Республика Марий Эл" value="Республика Марий Эл">Республика Марий Эл</option>
+								<option label="Республика Мордовия" value="Республика Мордовия">Республика Мордовия</option>
+								<option label="Республика Саха (Якутия)" value="Республика Саха (Якутия)">Республика Саха
+									(Якутия)
+								</option>
+								<option label="Республика Северная Осетия (Алания)"
+										value="Республика Северная Осетия (Алания)">
+									Республика Северная Осетия (Алания)
+								</option>
+								<option label="Республика Татарстан" value="Республика Татарстан">Республика Татарстан
+								</option>
+								<option label="Республика Тыва (Тува)" value="Республика Тыва (Тува)">Республика Тыва (Тува)
+								</option>
+								<option label="Республика Удмуртия" value="Республика Удмуртия">Республика Удмуртия</option>
+								<option label="Республика Хакасия" value="Республика Хакасия">Республика Хакасия</option>
+								<option label="Республика Чечня" value="Республика Чечня">Республика Чечня</option>
+								<option label="Республика Чувашия" value="Республика Чувашия">Республика Чувашия</option>
+								<option label="Ростовская область" value="Ростовская область">Ростовская область</option>
+								<option label="Рязанская область" value="Рязанская область">Рязанская область</option>
+								<option label="Самарская область" value="Самарская область">Самарская область</option>
+								<option label="Санкт-Петербург" value="Санкт-Петербург">Санкт-Петербург</option>
+								<option label="Саратовская область" value="Саратовская область">Саратовская область</option>
+								<option label="Сахалинская область" value="Сахалинская область">Сахалинская область</option>
+								<option label="Свердловская область" value="Свердловская область">Свердловская область
+								</option>
+								<option label="Смоленская область" value="Смоленская область">Смоленская область</option>
+								<option label="Ставропольский край" value="Ставропольский край">Ставропольский край</option>
+								<option label="Тамбовская область" value="Тамбовская область">Тамбовская область</option>
+								<option label="Тверская область" value="Тверская область">Тверская область</option>
+								<option label="Томская область" value="Томская область">Томская область</option>
+								<option label="Тульская область" value="Тульская область">Тульская область</option>
+								<option label="Тюменская область" value="Тюменская область">Тюменская область</option>
+								<option label="Ульяновская область" value="Ульяновская область">Ульяновская область</option>
+								<option label="Хабаровский край" value="Хабаровский край">Хабаровский край</option>
+								<option label="Ханты-Мансийский автономный округ" value="Ханты-Мансийский автономный округ">
+									Ханты-Мансийский автономный округ
+								</option>
+								<option label="Челябинская область" value="Челябинская область">Челябинская область</option>
+								<option label="Чукотский автономный округ" value="Чукотский автономный округ">Чукотский
+									автономный округ
+								</option>
+								<option label="Ямало-Ненецкий автономный округ" value="Ямало-Ненецкий автономный округ">
+									Ямало-Ненецкий автономный округ
+								</option>
+								<option label="Ярославская область" value="Ярославская область">Ярославская область</option>
+							</select>
+						</div>
+					</div>
+					<div class="form_cell_6">
+						<div class="form_block">
+							<label for="estate_city" class="form_label_block">Город предмета залога *</label>
+							<input name="consumer_gage_realty_city" type="text" class="form_input_block" id="estate_city" placeholder="Например: Москва"
+								   data-hint="Город должен быть написан русскими буквами">
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+
+			<div class="property" id="property_auto" style="display: none">
+				<div class="form_section_head">ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ О ЗАЛОГЕ (АВТОМОБИЛЕ)</div>
+
+				<div class="form_line">
+					<div class="form_cell_6">
+						<div class="form_block">
+							<label for="auto_mark" class="form_label_block">Марка авто *</label>
+							<input name="consumer_gage_auto_brand" type="text" class="form_input_block" id="auto_mark" placeholder="Например: Audi"
+								   data-hint="Введите марку своего автомобиля">
+						</div>
+					</div>
+					<div class="form_cell_6">
+						<div class="form_block">
+							<label for="auto_model" class="form_label_block">Модель авто *</label>
+							<input name="consumer_gage_auto_model" type="text" class="form_input_block" id="auto_model" placeholder="Например: A5"
+								   data-hint="Введите модель своего автомобиля">
+						</div>
+					</div>
+				</div>
+
+				<div class="form_line">
+					<div class="form_cell_6">
+						<div class="form_block">
+							<label for="auto_year" class="form_label_block">Год выпуска? *</label>
+							<input name="consumer_gage_auto_year" type="text" class="form_input_block" id="auto_year" placeholder="Например: 2007"
+								   data-hint="Укажите год выпуска вашего автомобиля">
+						</div>
+					</div>
+					<div class="form_cell_6">
+						<div class="form_block">
+							<label for="auto_owner" class="form_label_block">Кол-во владельцев по ПТС *</label>
+							<input name="consumer_gage_auto_owners_quant" type="text" class="form_input_block" id="auto_owner" placeholder="Например: 2"
+								   data-hint="Укажите количество владельцев по ПТС">
+						</div>
+					</div>
+				</div>
+
+
+				<div class="form_line">
+					<div class="form_cell_6">
+						<div class="form_block">
+							<label for="auto_reg" class="form_label_block">Регион регистрации авто *</label>
+							<select name="consumer_gage_auto_region" class="form_input_block" data-hint="" id="auto_reg">
+								<option value="" disabled selected hidden>Выберите регион</option>
+								<option label="Алтайский край" value="Алтайский край">Алтайский край</option>
+								<option label="Амурская область" value="Амурская область">Амурская область</option>
+								<option label="Архангельская область" value="Архангельская область">Архангельская область
+								</option>
+								<option label="Астраханская область" value="Астраханская область">Астраханская область
+								</option>
+								<option label="Белгородская область" value="Белгородская область">Белгородская область
+								</option>
+								<option label="Брянская область" value="Брянская область">Брянская область</option>
+								<option label="Владимирская область" value="Владимирская область">Владимирская область
+								</option>
+								<option label="Волгоградская область" value="Волгоградская область">Волгоградская область
+								</option>
+								<option label="Вологодская область" value="Вологодская область">Вологодская область</option>
+								<option label="Воронежская область" value="Воронежская область">Воронежская область</option>
+								<option label="Еврейская автономная область" value="Еврейская автономная область">Еврейская
+									автономная область
+								</option>
+								<option label="Забайкальский край" value="Забайкальский край">Забайкальский край</option>
+								<option label="Ивановская область" value="Ивановская область">Ивановская область</option>
+								<option label="Иркутская область" value="Иркутская область">Иркутская область</option>
+								<option label="Калининградская область" value="Калининградская область">Калининградская
+									область
+								</option>
+								<option label="Калужская область" value="Калужская область">Калужская область</option>
+								<option label="Камчатский край" value="Камчатский край">Камчатский край</option>
+								<option label="Кемеровская область" value="Кемеровская область">Кемеровская область</option>
+								<option label="Кировская область" value="Кировская область">Кировская область</option>
+								<option label="Костромская область" value="Костромская область">Костромская область</option>
+								<option label="Краснодарский край" value="Краснодарский край">Краснодарский край</option>
+								<option label="Красноярский край" value="Красноярский край">Красноярский край</option>
+								<option label="Крым" value="Крым">Крым</option>
+								<option label="Курганская область" value="Курганская область">Курганская область</option>
+								<option label="Курская область" value="Курская область">Курская область</option>
+								<option label="Ленинградская область" value="Ленинградская область">Ленинградская область
+								</option>
+								<option label="Липецкая область" value="Липецкая область">Липецкая область</option>
+								<option label="Магаданская область" value="Магаданская область">Магаданская область</option>
+								<option label="Москва" value="Москва">Москва</option>
+								<option label="Московская область" value="Московская область">Московская область</option>
+								<option label="Мурманская область" value="Мурманская область">Мурманская область</option>
+								<option label="Ненецкий автономный округ" value="Ненецкий автономный округ">Ненецкий
+									автономный
+									округ
+								</option>
+								<option label="Нижегородская область" value="Нижегородская область">Нижегородская область
+								</option>
+								<option label="Новгородская область" value="Новгородская область">Новгородская область
+								</option>
+								<option label="Новосибирская область" value="Новосибирская область">Новосибирская область
+								</option>
+								<option label="Омская область" value="Омская область">Омская область</option>
+								<option label="Оренбургская область" value="Оренбургская область">Оренбургская область
+								</option>
+								<option label="Орловская область" value="Орловская область">Орловская область</option>
+								<option label="Пензенская область" value="Пензенская область">Пензенская область</option>
+								<option label="Пермский край" value="Пермский край">Пермский край</option>
+								<option label="Приморский край" value="Приморский край">Приморский край</option>
+								<option label="Псковская область" value="Псковская область">Псковская область</option>
+								<option label="Республика Адыгея" value="Республика Адыгея">Республика Адыгея</option>
+								<option label="Республика Алтай" value="Республика Алтай">Республика Алтай</option>
+								<option label="Республика Башкортостан" value="Республика Башкортостан">Республика
+									Башкортостан
+								</option>
+								<option label="Республика Бурятия" value="Республика Бурятия">Республика Бурятия</option>
+								<option label="Республика Дагестан" value="Республика Дагестан">Республика Дагестан</option>
+								<option label="Республика Ингушетия" value="Республика Ингушетия">Республика Ингушетия
+								</option>
+								<option label="Республика Кабардино-Балкария" value="Республика Кабардино-Балкария">
+									Республика
+									Кабардино-Балкария
+								</option>
+								<option label="Республика Калмыкия" value="Республика Калмыкия">Республика Калмыкия</option>
+								<option label="Республика Карачаево-Черкессия" value="Республика Карачаево-Черкессия">
+									Республика
+									Карачаево-Черкессия
+								</option>
+								<option label="Республика Карелия" value="Республика Карелия">Республика Карелия</option>
+								<option label="Республика Коми" value="Республика Коми">Республика Коми</option>
+								<option label="Республика Марий Эл" value="Республика Марий Эл">Республика Марий Эл</option>
+								<option label="Республика Мордовия" value="Республика Мордовия">Республика Мордовия</option>
+								<option label="Республика Саха (Якутия)" value="Республика Саха (Якутия)">Республика Саха
+									(Якутия)
+								</option>
+								<option label="Республика Северная Осетия (Алания)"
+										value="Республика Северная Осетия (Алания)">
+									Республика Северная Осетия (Алания)
+								</option>
+								<option label="Республика Татарстан" value="Республика Татарстан">Республика Татарстан
+								</option>
+								<option label="Республика Тыва (Тува)" value="Республика Тыва (Тува)">Республика Тыва (Тува)
+								</option>
+								<option label="Республика Удмуртия" value="Республика Удмуртия">Республика Удмуртия</option>
+								<option label="Республика Хакасия" value="Республика Хакасия">Республика Хакасия</option>
+								<option label="Республика Чечня" value="Республика Чечня">Республика Чечня</option>
+								<option label="Республика Чувашия" value="Республика Чувашия">Республика Чувашия</option>
+								<option label="Ростовская область" value="Ростовская область">Ростовская область</option>
+								<option label="Рязанская область" value="Рязанская область">Рязанская область</option>
+								<option label="Самарская область" value="Самарская область">Самарская область</option>
+								<option label="Санкт-Петербург" value="Санкт-Петербург">Санкт-Петербург</option>
+								<option label="Саратовская область" value="Саратовская область">Саратовская область</option>
+								<option label="Сахалинская область" value="Сахалинская область">Сахалинская область</option>
+								<option label="Свердловская область" value="Свердловская область">Свердловская область</option>
+								<option label="Смоленская область" value="Смоленская область">Смоленская область</option>
+								<option label="Ставропольский край" value="Ставропольский край">Ставропольский край</option>
+								<option label="Тамбовская область" value="Тамбовская область">Тамбовская область</option>
+								<option label="Тверская область" value="Тверская область">Тверская область</option>
+								<option label="Томская область" value="Томская область">Томская область</option>
+								<option label="Тульская область" value="Тульская область">Тульская область</option>
+								<option label="Тюменская область" value="Тюменская область">Тюменская область</option>
+								<option label="Ульяновская область" value="Ульяновская область">Ульяновская область</option>
+								<option label="Хабаровский край" value="Хабаровский край">Хабаровский край</option>
+								<option label="Ханты-Мансийский автономный округ" value="Ханты-Мансийский автономный округ">
+									Ханты-Мансийский автономный округ
+								</option>
+								<option label="Челябинская область" value="Челябинская область">Челябинская область</option>
+								<option label="Чукотский автономный округ" value="Чукотский автономный округ">Чукотский
+									автономный округ
+								</option>
+								<option label="Ямало-Ненецкий автономный округ" value="Ямало-Ненецкий автономный округ">
+									Ямало-Ненецкий автономный округ
+								</option>
+								<option label="Ярославская область" value="Ярославская область">Ярославская область</option>
+							</select>
+						</div>
+					</div>
+					<div class="form_cell_6">
+						<div class="form_block mobile_centered">
+							<div class="radio_head">
+								<b>Наличие каско *</b>
+							</div>
+							<div class="radio_block">
+								<input type="radio" name="consumer_gage_auto_has_casco" id="w1" value="1" class="form_radio">
+								<label for="w1">Да</label>
+							</div>
+							<div class="radio_block">
+								<input type="radio" name="consumer_gage_auto_has_casco" id="w2" value="0" class="form_radio" checked>
+								<label for="w2">Нет</label>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="form_block centered">
+					<div class="radio_head">
+						<b>Авто не является кредитным или кредит уже выплачен *</b>
+					</div>
+					<div class="radio_block">
+						<input type="radio" name="consumer_gage_auto_not_gaged" id="e1" value="1" class="form_radio"
+							   checked>
+						<label for="e1">Да</label>
+					</div>
+					<div class="radio_block">
+						<input type="radio" name="consumer_gage_auto_not_gaged" id="e2" value="0" class="form_radio">
+						<label for="e2">Нет</label>
+					</div>
+				</div>
+
+
+			</div>
+
+
+			<div class="form_block centered">
+				<button id="consumer_to_step_5" type="submit" class="btn btn_gold">Далее &rarr;</button>
+			</div>
+
+
+		</div>
+	</form>
+</div><!-- //step -->
+                    <!-- CREDIT FORM END -->
+                    </div>
+                </div>
+            </div>
+            <aside class="col-md-3">
+                <div class="credit_carma_aside">
+	<div class="hint_item">
+		<img src="/creditkarm/img/boblo.svg">
+		<div class="hint_item_title">Гарантия безопасности</div>
+		<div class="hint_item_text">Мы обеспечиваем 100% защиту <br> ваших персональных данных</div>
+	</div>
+	<div class="hint_item">
+		<img src="/creditkarm/img/rating.svg">
+		<div class="hint_item_title">Принимаем заявки с плохим <br> кредитным рейтингом</div>
+		<div class="hint_item_text">С нами шанс получить кредит <br>намного выше</div>
+	</div>
+	<div class="hint_item">
+		<img src="/creditkarm/img/coins.svg">
+		<div class="hint_item_title">Деньги уже ждут вас</div>
+		<div class="hint_item_text">Мы обеспечиваем 100% защиту <br> ваших персональных данных</div>
+	</div>
+</div>            </aside>
+        </div>
+    </div>
+
+    <footer class="content footer">
+	<div class="content-inset">
+		<div class="row ">
+			<div class="col-sm-4">
+				<p class="footer_text_h">© 2011-2017 <br> «CreditKarm»</p>
+				<p class="footer_text_h footer_mob_text">
+					Пользуясь сервисом CreditKarm я подтверждаю,
+					что согласен с правилами пользования сервисом,
+					являюсь гражданином РФ и мне больше 18 лет
+				</p>
+				
+				<div class="social">
+					<a class="fa fa-google-plus" target="_blank" href="https://plus.google.com/b/110666695724425173622/110666695724425173622"></a>
+					<a class="fa fa-vk" target="_blank" href="https://vk.com/creditkarm"></a>
+					<a class="fa fa-facebook" target="_blank" href="https://www.facebook.com/CreditKarm-1883171171922088/"></a>
+				</div>
+			</div>
+			<div class="col-sm-2">
+				<ul class="list">
+					<li><a href="https://creditkarm.ru/form" yandex-goal="footer_credit">Получить кредит</a></li>
+					<li><a href="https://creditkarm.ru/rules" yandex-goal="footer_rules">Правила</a></li>
+					<li><a href="https://creditkarm.ru/policy" yandex-goal="footer_rules">Политика</a></li>
+					<li><a href="https://creditkarm.ru/about" yandex-goal="footer_about">О нас</a></li>
+					<li><a href="https://creditkarm.ru/feedback" yandex-goal="footer_feedback">Контакты</a></li>
+					
+					<li><a href="http://webmasters.leadia.ru/main/description/paydayru" yandex-goal="footer_partner_link"> Партнерская программа </a></li>
+				</ul>
+				
+			</div>
+			<div class="col-sm-6">
+				<p class="footer_mob_text">
+					«CreditKarm» — это простой и удобный сервис по подбору займов и кредитов по всей России.
+					Любой житель России, даже из самого удаленного города сможет получить кредит онлайн на любые нужды в короткие сроки. Мы объединили больше 100 банков, бюро кредитных историй и микрофинансовых организаций (МФО), чтобы наши клиенты могли найти самый кредит на самых выгодных условиях, затратив минимум личного времени.
+					«CreditKarm» поможет вам подобрать и получить выгодный кредит, оформить банковскую карту, взять ипотеку, проверить вашу кредитную историю и рассчитать страховку онлайн.
+					Все, что вам необходимо - это заполнить заявку и выбрать подходящее предложение из предложенных
+				</p>
+			</div>
+		</div>
+	</div>
+</footer>    <img src="//cpa.leadia.ru/api/track?utm_source=https%3A%2F%2Fcreditkarm.ru%2Fform&utm_medium=affiliate&utm_campaign=creditkarm.ru&aff_id=2&aff_sub="
+     style="position:absolute; left:-9999px;">
+</div><!-- #wrapper -->
+
+<script src="/creditkarm/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/creditkarm/bower_components/jquery-ui/jquery-ui.min.js"></script>
+<script src="/creditkarm/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+
+<script src="/creditkarm/js/main.js"></script>
+<script src="/creditkarm/js/modals.js"></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter41781994 = new Ya.Metrika({
+                    id:41781994,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/41781994" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        // При клике на элементе, у которого есть атрибут yandex-goal отправить в yandex метрику
+        // цель с названием, которое храниться в этом атрибуте
+        $('[yandex-goal]').on('click', function (e) {
+            try{
+                yaCounter41781994.reachGoal($(e.target).attr('yandex-goal'));
+                console.log("Sent yandex metrika goal " + $(e.target).attr('yandex-goal'));
+            }catch (e) {
+                console.log(e);
+            }
+        })
+    });
+</script>
+
+
+    <script src="/creditkarm/bower_components/jquery-ui/jquery-ui.min.js"></script>
+<script src="/creditkarm/bower_components/jqueryui-touch-punch/jquery.ui.touch-punch.min.js"></script>
+<script src="/creditkarm/bower_components/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="/creditkarm/bower_components/jquery-mask-plugin/dist/jquery.mask.min.js"></script>
+<script src="/creditkarm/bower_components/js-cookie/src/js.cookie.js"></script>
+<script src="/creditkarm/bower_components/underscore/underscore-min.js"></script>
+
+
+<script>
+	function getParameterByName(name) {
+		name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+		var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+				results = regex.exec(location.search);
+		return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+	}
+
+	window.paydayru = {
+		'userid': "10863",
+		'subaccount': "",
+		'client_ip': "81.163.56.251",
+		'template': "form_master_paydayru-default-draft",
+		'product': "paydayru",
+		'form_page': window.location.href,
+		'referer': document.referrer,
+		'amount': (getParameterByName('amount') ? getParameterByName('amount') : ''),
+		'term': (getParameterByName('term') ? getParameterByName('term') : ''),
+		'ag': (getParameterByName('ag') ? getParameterByName('ag') : ''),
+			};
+
+</script>
+<script src="/creditkarm/js/filter.js"></script>
+<script src="/creditkarm/js/slider.js"></script>
+<script src="/creditkarm/js/cashalot_mobile.form.js"></script>
+<script src="/creditkarm/js/dropdown.js"></script>
+<script src="/creditkarm/js/radio_check.js"></script>
+<script src="/creditkarm/js/script.js"></script>
+
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5996b1909b0dfa3c"></script>
+<script type="text/javascript" src="//api.venyoo.ru/wnew.js?wc=venyoo/default/science&widget_id=5496108874465280"></script>
+<script charset="UTF-8" src="//cdn.sendpulse.com/28edd3380a1c17cf65b137fe96516659/js/push/d6b2a2232ce86470eca7c3c56bb2d470_1.js" async></script>
+<!-- Facebook Pixel Code --><script>  !function(f,b,e,v,n,t,s)  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?  n.callMethod.apply(n,arguments):n.queue.push(arguments)};  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';  n.queue=[];t=b.createElement(e);t.async=!0;  t.src=v;s=b.getElementsByTagName(e)[0];  s.parentNode.insertBefore(t,s)}(window, document,'script',  'https://connect.facebook.net/en_US/fbevents.js');  fbq('init', '1894344284220219');  fbq('track', 'PageView');</script>
+
+</body>
+</html>

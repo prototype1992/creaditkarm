@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="Авторизация пользователей на сайте creditkarm.ru">
+    <meta name="mailru-verification" content="519ed04d7d033af6" />
+    <meta name="yandex-verification" content="a2e441e4a4c734ca" />
+    <meta name="google-site-verification" content="yk0T1LGkl4Sa4V6kugNTMmY5lPy-2tt8nAAO0Yb9zWw" />
+
+
+    
+    <link rel="shortcut icon" href="/creditkarm/img/favicon.jpg">
+    <link href="/creditkarm/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.5.0/css/bootstrap-slider.min.css">
+    <link rel="stylesheet" href="/creditkarm/css/main.css" media="screen, projection" />
+    <link rel="stylesheet" href="/creditkarm/css/modal.css" media="screen, projection" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;subset=cyrillic" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Вход в личный кабинет | CreditKarm</title>
+    </head>
+<body class="internal_page">
+
+<div class="wrapper">
+
+    
+    <header class="header">
+	<div class="header-inset">
+		<a href="#" id="mobMenu" class="burger">
+		 	<div class="burger-ico"></div>
+		 </a>
+		<div class="table_mod">
+			<div class="col-sm-2 table_mod_cell">
+				<a href="https://creditkarm.ru" class="logo"><img src="/creditkarm/img/ck_logo.svg" alt="" yandex-goal="header-logo-click"></a>
+			</div>
+			<div class="col-sm-8 table_mod_cell">
+				<nav id="navigation" class="nav">
+					<div class="nav_item"><a href="https://creditkarm.ru/form">Подбор кредита</a></div>
+					<div class="nav_item">
+						<a href="#" class="">
+							Кредиты
+							<i class="glyphicon glyphicon-menu-down"></i>
+						</a>
+						<div class="sub_menu">
+							<a href="https://creditkarm.ru/zaimy">Займы</a>
+							<a href="https://creditkarm.ru/cards">Кредитные карты</a>
+							<a href="https://creditkarm.ru/credit">Потребительские кредиты</a>
+						</div>
+					</div>
+					<div class="nav_item">
+						<a href="#">
+							Страхование
+							<i class="glyphicon glyphicon-menu-down"></i>
+						</a>
+						<div class="sub_menu">
+							<a href="https://creditkarm.ru/casco">КАСКО</a>
+							<a href="https://creditkarm.ru/osago">ОСАГО</a>
+							<a href="https://creditkarm.ru/travel">Страхование путешествий</a>
+						</div>
+					</div>
+					<div class="nav_item pull-right social_wrap">
+						<ul class="list-unstyled header_social_links">
+							<li>
+								<a target="_blank" href="https://plus.google.com/b/110666695724425173622/110666695724425173622">
+									<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+										<path fill="#818181" d="M12,0 C5.38314894,0 0,5.38314894 0,12 C0,18.6168511 5.38314894,24 12,24 C18.6168511,24 24,18.6168511 24,12 C24,5.38314894 18.6168511,0 12,0 Z M12,22.4680851 C6.22784681,22.4680851 1.53191489,17.7721532 1.53191489,12 C1.53191489,6.22784681 6.22784681,1.53191489 12,1.53191489 C17.7721532,1.53191489 22.4680851,6.22784681 22.4680851,12 C22.4680851,17.7721532 17.7721532,22.4680851 12,22.4680851 Z M9.70866383,11.2340426 L14.6134468,11.2340426 L14.6134468,12 C14.6134468,14.7044426 12.4132085,16.9046809 9.70866383,16.9046809 C7.00411915,16.9046809 4.80398298,14.7044426 4.80398298,12 C4.80398298,9.29555745 7.00422128,7.09531915 9.70866383,7.09531915 C10.7997957,7.09531915 11.8335319,7.44653617 12.6980426,8.11108085 L11.7643915,9.32568511 C11.1700085,8.86876596 10.4590979,8.62723404 9.70866383,8.62723404 C7.84881702,8.62723404 6.33589787,10.1402553 6.33589787,12 C6.33589787,13.8597447 7.84891915,15.372766 9.70866383,15.372766 C11.3051234,15.372766 12.6460596,14.2579404 12.9938043,12.7659574 L9.70866383,12.7659574 L9.70866383,11.2340426 Z M18.8685957,11.2340426 L20.2039149,11.2340426 L20.2039149,12.7659574 L18.8685957,12.7659574 L18.8685957,14.1013787 L17.3366809,14.1013787 L17.3366809,12.7659574 L16.0019745,12.7659574 L16.0019745,11.2340426 L17.3366809,11.2340426 L17.3366809,9.89862128 L18.8685957,9.89862128 L18.8685957,11.2340426 Z"/>
+									</svg>
+								</a>
+							</li>
+							<li>
+								<a target="_blank" href="https://vk.com/creditkarm">
+									<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+										<g fill="#818181" fill-rule="evenodd">
+											<path fill-rule="nonzero" d="M12,0 C5.38314894,0 0,5.38314894 0,12 C0,18.6168511 5.38314894,24 12,24 C18.6168511,24 24,18.6168511 24,12 C24,5.38314894 18.6168511,0 12,0 Z M12,22.4680851 C6.22784681,22.4680851 1.53191489,17.7721532 1.53191489,12 C1.53191489,6.22784681 6.22784681,1.53191489 12,1.53191489 C17.7721532,1.53191489 22.4680851,6.22784681 22.4680851,12 C22.4680851,17.7721532 17.7721532,22.4680851 12,22.4680851 Z"/>
+											<path d="M12.2383084,16.2091684 C12.2383084,16.2091684 12.4613518,16.1846839 12.5752213,16.0619262 C12.6800349,15.9492306 12.6766809,15.7375909 12.6766809,15.7375909 C12.6766809,15.7375909 12.6622585,14.7468087 13.1220969,14.6009081 C13.5753949,14.4571876 14.1574878,15.5584854 14.7744628,15.9819324 C15.2410092,16.3024106 15.5955308,16.2321435 15.5955308,16.2321435 L17.2452134,16.2091684 C17.2452134,16.2091684 18.1082069,16.1560069 17.6990145,15.4774854 C17.6654742,15.4219761 17.4607103,14.9755539 16.4724435,14.058225 C15.4380588,13.0981322 15.5765805,13.2534241 16.8226049,11.5926731 C17.5814556,10.5812636 17.8848281,9.96378551 17.7900766,9.69931977 C17.6996853,9.44743166 17.1415737,9.51400927 17.1415737,9.51400927 L15.2841085,9.5255807 C15.2841085,9.5255807 15.1464254,9.5067981 15.044295,9.56784155 C14.9445124,9.6277111 14.8802826,9.767239 14.8802826,9.767239 C14.8802826,9.767239 14.5863013,10.5499033 14.1942145,11.2155118 C13.3671092,12.6200144 13.0364013,12.6941386 12.9012336,12.6069336 C12.5867927,12.4036791 12.6652772,11.7903936 12.6652772,11.3547043 C12.6652772,9.99363643 12.8717181,9.42613353 12.263296,9.27922675 C12.061383,9.23042552 11.9127992,9.19822678 11.3964453,9.19302802 C10.7336878,9.18615225 10.1727253,9.19504044 9.85509806,9.35066772 C9.64379379,9.45413973 9.48078763,9.68472971 9.5800671,9.69797815 C9.70282482,9.71441293 9.98087441,9.77294086 10.1282843,9.97367992 C10.3186258,10.2326115 10.3119178,10.8142014 10.3119178,10.8142014 C10.3119178,10.8142014 10.4212593,12.4164244 10.0565079,12.6154864 C9.80612913,12.7519957 9.46267584,12.4732753 8.72529101,11.199077 C8.34745884,10.5463816 8.06219808,9.82492842 8.06219808,9.82492842 C8.06219808,9.82492842 8.00719188,9.69009617 7.90908633,9.61798439 C7.79001805,9.53061175 7.62365786,9.50277325 7.62365786,9.50277325 L5.85859638,9.51434468 C5.85859638,9.51434468 5.59362753,9.52172356 5.49636048,9.6369347 C5.40982635,9.7394005 5.48948471,9.95137558 5.48948471,9.95137558 C5.48948471,9.95137558 6.87134757,13.1843309 8.4360054,14.813554 C9.87069433,16.3072739 11.4999173,16.2091684 11.4999173,16.2091684 L12.2383084,16.2091684 Z"/>
+										</g>
+									</svg>
+
+								</a>
+							</li>
+							<li>
+								<a target="_blank" href="https://www.facebook.com/CreditKarm-1883171171922088/">
+									<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+										<g fill="#818181">
+											<path d="M12,0 C5.38314894,0 0,5.38314894 0,12 C0,18.6168511 5.38314894,24 12,24 C18.6168511,24 24,18.6168511 24,12 C24,5.38314894 18.6168511,0 12,0 Z M12,22.4680851 C6.22784681,22.4680851 1.53191489,17.7721532 1.53191489,12 C1.53191489,6.22784681 6.22784681,1.53191489 12,1.53191489 C17.7721532,1.53191489 22.4680851,6.22784681 22.4680851,12 C22.4680851,17.7721532 17.7721532,22.4680851 12,22.4680851 Z"/>
+											<path d="M14.211485,11.877945 L12.6008467,11.877945 L12.6008467,17.7785772 L10.1605928,17.7785772 L10.1605928,11.877945 L9,11.877945 L9,9.80422799 L10.1605928,9.80422799 L10.1605928,8.46229755 C10.1605928,7.50267247 10.6164308,6 12.6225686,6 L14.4301521,6.00756244 L14.4301521,8.0204581 L13.1186323,8.0204581 C12.9035051,8.0204581 12.6010076,8.12794126 12.6010076,8.58571009 L12.6010076,9.80615882 L14.4246814,9.80615882 L14.211485,11.877945 Z"/>
+										</g>
+									</svg>
+
+								</a>
+							</li>
+						</ul>
+					</div>
+				</nav>
+			</div>
+			<div class="col-sm-2 table_mod_cell text-right">
+				<!-- <a href="#" class="header_city"><i class="marker-ico"></i><div class="dib">Россия</div></a> -->
+									<a href="https://creditkarm.ru/login" class="log_in">
+						<i class="glyphicon glyphicon-log-in"></i>
+						Вход
+					</a>
+							</div>
+		</div>
+	</div>
+</header>
+    <div class="auth_wrap" id="auth">
+        <div class="auth_block">
+            <form role="form" method="POST" action="https://creditkarm.ru/login">
+                <input type="hidden" name="_token" value="G6A0k0zpqJaVj3J69gpzHBKPHJUQ1qHzSsSdzPpg">
+                <div class="form-group ">
+                    <label for="email">Ваш E-mail</label>
+                    <input id="email" type="email" class="form-control" name="email" value="" placeholder="test@test.com">
+                                    </div>
+                <div class="form-group ">
+                    <label for="password" class="form_label">Ваш пароль</label>
+                    <input id="password" type="password" class="form-control" name="password" placeholder="Ваш пароль">
+                                    </div>
+                <div class="form-group">
+                    <div class="row">
+                        <div class="dib col-xs-6">
+                            <div class="form-check">
+                                <input type="checkbox" id="gf">
+                                <div class="form-check-emule">
+                                    <i class="check_svg"></i>
+                                </div>
+                                <div class="form-check-text">Запомнить меня</div>
+                            </div>
+                        </div>
+                        <div class="dib col-xs-6 text-right">
+                            <a href="https://creditkarm.ru/password/reset">Забыли пароль?</a>
+                        </div>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn_yellow">
+                    Войти
+                </button>
+                <div class="text-center">
+                    <a href="https://creditkarm.ru/register" class="reg_link">Зарегистрироваться</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+</div><!-- #wrapper -->
+
+<script src="/creditkarm/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/creditkarm/bower_components/jquery-ui/jquery-ui.min.js"></script>
+<script src="/creditkarm/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+
+<script src="/creditkarm/js/main.js"></script>
+<script src="/creditkarm/js/modals.js"></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter41781994 = new Ya.Metrika({
+                    id:41781994,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/41781994" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        // При клике на элементе, у которого есть атрибут yandex-goal отправить в yandex метрику
+        // цель с названием, которое храниться в этом атрибуте
+        $('[yandex-goal]').on('click', function (e) {
+            try{
+                yaCounter41781994.reachGoal($(e.target).attr('yandex-goal'));
+                console.log("Sent yandex metrika goal " + $(e.target).attr('yandex-goal'));
+            }catch (e) {
+                console.log(e);
+            }
+        })
+    });
+</script>
+
+
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5996b1909b0dfa3c"></script>
+<script type="text/javascript" src="//api.venyoo.ru/wnew.js?wc=venyoo/default/science&widget_id=5496108874465280"></script>
+<script charset="UTF-8" src="//cdn.sendpulse.com/28edd3380a1c17cf65b137fe96516659/js/push/d6b2a2232ce86470eca7c3c56bb2d470_1.js" async></script>
+<!-- Facebook Pixel Code --><script>  !function(f,b,e,v,n,t,s)  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?  n.callMethod.apply(n,arguments):n.queue.push(arguments)};  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';  n.queue=[];t=b.createElement(e);t.async=!0;  t.src=v;s=b.getElementsByTagName(e)[0];  s.parentNode.insertBefore(t,s)}(window, document,'script',  'https://connect.facebook.net/en_US/fbevents.js');  fbq('init', '1894344284220219');  fbq('track', 'PageView');</script>
+
+</body>
+</html>

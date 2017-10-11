@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+Disallow: /registration/
+Sitemap: https://creditkarm.ru/sitemap.xml
+Host: creditkarm.ru
+

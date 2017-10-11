@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bc3ead9-6b89-4a5b-8d93-483c296f670c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot?" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/angle_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/def-face.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/family.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/favicon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/letter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/logos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/men.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/share-img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/spritesheet3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/white-caret-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/100-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/101-38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/102-tinkoff-bank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/103-alfa_bank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/104-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/105-touch-bank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/106-yar-bank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/107-55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/108-54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/109-43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/110-67.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/112-65.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/113-68.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/114-62.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/115-63.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/116-23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/117-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/271-UBRiR_Maximum_290x185.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/294-ситибанк.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/319-0420b548.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/80-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/81-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/82-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/83-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/84-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/85-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/86-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/87-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/88-36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/89-26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/90-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/91-31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/92-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/93-19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/94-21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/95-17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/96-49.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/97-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/98-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/99-halva-sovkom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/bank18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/bank204.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/bank31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-100-54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-101-43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-102-mfo_lime.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-104-65.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-105-1493994668.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-106-62.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-107-63.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-108-23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-109-64.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-243-kreditniyzaem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-244-lotfinance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-245-smartcredit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-246-nalichnienalichnie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-247-moneysto.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-248-Denga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-249-bistrodengi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-257-ubrr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-258-greenfinance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-270-logo-(7).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-74-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-75-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-76-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-77-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-78-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-79-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-80-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-81-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-82-36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-83-22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-835-mfo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-84-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-85-31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-86-15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-87-19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-88-21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-89-17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-90-49.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-91-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-92-16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-93-38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-94-14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-95-13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-96-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-97-53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-98-56.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logos/company-99-55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/creditkarm.ru.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cards" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/casco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/companies" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/4slovo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/alfabank/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/bistrodengi/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/citibank" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/creditplus/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/ddo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/denga/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/dengisrazy/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/devza/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/e-kapusta/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/express_finance/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/ezaem/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/greenfinance/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/homecredit/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/interprombank/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/konga/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/kreditniyzaem/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/kredito24/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/lime-zaim/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/lotfinance/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/migcredit/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/mili/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/moneyman/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/moneysto/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/moneza/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/omoney/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/oneclickmoney/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/otpbank/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/payps/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/platiza/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/qiwi-bank/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/raiffeisen/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/rencredit/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/smartcredit/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/smsfinance/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/sovcombank/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/tinkoff/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/touchbank/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/turbozaim/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/ubrr/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/vashidengi/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/vivus/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/vkarmane/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/vostbank/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/webbankir/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/yarbank/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/zaimon/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/zaymer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/company/zaymiprosto/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/credit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/jquery-mask-plugin/dist/jquery.mask.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/jquery-ui/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/jquery-validation/dist/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/jqueryui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/js-cookie/src/js.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/bower_components/underscore/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/css/modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/advantages-ico.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/boblo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/cards.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/ck_logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/coins.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/credits.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/finger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/history.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/ipoteka.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/mark-ico.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/microzaimi.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/podbor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/rate-star-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/rate-star.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/rating.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/requirements-ico.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/rules-ico.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/img/top-stars.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/js/cashalot_mobile.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/js/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/js/modals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/js/radio_check.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creditkarm/js/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/default/img/letter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feedback" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/alifa_bank" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/bistrodengi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/cestnoie_slovo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/citibank" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/creditplus" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/ddo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/denga" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/dengisrazy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/ecapusta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/express_finance" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/ezaem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/greenfinance_nedvizhimosti" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/greenfinance_pod_zalog_avto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/homecredit_nalichnymi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/homecredit_platinum" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/interprombank_credit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/konga" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/kreditniyzaem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/kredito24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/lime_zaim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/lotfinance" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/mig_credit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/mili" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/moneyman" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/moneysto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/moneza" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/omoney" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/oneclickmoney" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/otpbank" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/partner_denigi_vzaimi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/payps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/platiza" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/qiwi_bank_sovesti" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/raiffeisen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/renesans_credit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/smartcredit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/sms_finance" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/sovcombank" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/sovcombank_halva" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/sovcombank_pod_zalog_avto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/tinikoff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/tinikoffcredit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/touchbank" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/turbozaim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/ubrr_card" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/ubrr_credit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/ubrr_otkrytyi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/vashi_denigi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/vivus" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/vkarmane" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/vostbank" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/webbankir" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/yarbank" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/zaimer" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/zaimiprosto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/offer/zaimon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/osago" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/password/reset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/policy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/100" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/101" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/102" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/104" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/105" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/106" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/107" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/108" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/109" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/243" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/244" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/245" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/246" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/247" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/248" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/249" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/257" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/258" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/270" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/290" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/303" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/476" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/74" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/75" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/76" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/77" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/78" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/79" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/80" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/81" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/82" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/83" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/835" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/84" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/85" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/86" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/87" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/88" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/89" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/90" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/91" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/92" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/93" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/94" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/95" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/96" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/97" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/98" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/review/create/99" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/travel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/bad_credit_history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/bankovskie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/besprocentnye" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/bez-poruchitelei" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/bez-spravok" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/bezrabotnym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/cards" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/contact" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/dlya-ispravleniya-kreditnoi-istorii" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/do-zarplaty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/dolgosrochnye" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/ekspress" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/gage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/hundred_pounds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/kiwi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/mgnovennye" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/na-bankovskiy-schet" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/na-dom" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/nalichnymi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/online" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/pensioneram" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/po-pasportu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/po-telefonu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/pod-materinskii-kapital" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/pod-zalog-avto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/quick" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/s-18-let" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/studentam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/urgent" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/v-den-obrashcheniya" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/without_check" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/yandex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zaimy/zolotaya-korona" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creditkarm/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="0" column="3033" lean-forward="false" selection-start-line="0" selection-start-column="3033" selection-end-line="0" selection-end-column="3033" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header_city</find>
+      <find>class=&quot;exit_popup&quot;</find>
+      <find>hero_block</find>
+      <find>получить</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ES6BindWithArrowFunction</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="creditkarm.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creditkarm.ru" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bc3ead9-6b89-4a5b-8d93-483c296f670c" name="Default" comment="" />
+      <created>1507728436496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507728436496</updated>
+      <workItem from="1507728438683" duration="2258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2258000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16701902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/creditkarm/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="0" column="3033" lean-forward="false" selection-start-line="0" selection-start-column="3033" selection-end-line="0" selection-end-column="3033" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="86" column="30" lean-forward="true" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
